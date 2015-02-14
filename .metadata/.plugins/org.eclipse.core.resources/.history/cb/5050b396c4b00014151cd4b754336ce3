@@ -1,0 +1,9 @@
+package cb.springdemo;
+
+public class Triangle {
+
+	public void draw() {
+		ps("Drawing a Triangle");
+	}
+
+}

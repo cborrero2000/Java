@@ -1,0 +1,432 @@
+import java.io.BufferedReader;
+import java.io.ByteArrayOutputStream;
+import java.io.DataOutputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.LineNumberReader;
+import java.io.OutputStream;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.List;
+
+public class GenHex {
+	static String strfileName;
+	static String[] columnValue = null;
+	static String[][] mscid = null;
+	final static int BYTE=2;
+	final static int numberOfHeaderLinesInCSVFile = 1;
+	
+	//Custom Print methods
+	public static void ps(Object obj){ // print screen function. Just as System.out.print
+		System.out.println(obj);
+	}
+	public static void psf(Object obj1, Object obj2){ // print screen function. Just as System.out.printf
+		System.out.printf(obj1.toString(),obj2);
+	}
+	public static void psn(Object obj){ // print screen NO new line function. Just as System.out.println
+		System.out.print(obj);
+	}
+	public static void ps(Object obj1, Object obj2){ // print screen new line function.Just as System.out.printf plus "\n" ln
+		System.out.printf(obj1.toString()+"\n",obj2);
+	}
+      
+	public static void psListHEX(List<Byte> list){ // print screen function. Just as System.out.print
+		for(int i=0; i < list.size(); i++){
+			System.out.printf("%X ", list.get(i));
+		}
+		ps("");
+	}
+	
+	public static void psByteHEX(byte[] byteArray)
+	{
+		 for(byte by: byteArray){
+ 			  psn(String.format("%X ",by));
+ 		  }
+		 ps("");
+	}
+
+	public static void psFileInputStreamHEX(FileInputStream fis)
+	{
+//		ps("psFileInputStreamHEX_1");
+		StringBuilder builder = new StringBuilder();
+		int ch;
+		try {
+			int i=0;
+//			ps("psFileInputStreamHEX_2");
+			while((ch = fis.read()) != -1){
+//				ps("psFileInputStreamHEX_3");
+				builder.append((char)ch);
+//				ps(builder.charAt(i));
+//				ps("i: " + i);
+//				i++;
+			}
+//			ps("psFileInputStreamHEX_4");
+			
+		    /*for(byte by:bFile){			// converts ascii content of byte array into hexadecimal
+		    	hexa.append(String.format("%X",bFile[i])); 
+		    	i++;										
+		    }*/
+			
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		System.out.println(builder.toString());
+	}
+	
+	
+	
+	static byte[] toPrimitiveByteArray(Byte[] wrappedArray) {	// converts Byte[] to byte[]
+		byte[] array = new byte[wrappedArray.length];
+    	  
+		for(int i = 0; i < wrappedArray.length; i++){
+			array[i] = wrappedArray[i].byteValue();
+		}
+		return array;
+	}
+      
+	static Byte[] toWrapperByteArray(byte[] primitiveArray) {	// convert byte[] to Byte[]
+		Byte[] array = new Byte[primitiveArray.length];
+    	  
+		for(int i = 0; i < primitiveArray.length; i++)
+			array[i] = primitiveArray[i];
+		return array;
+	}
+      
+	static void AsnASCII(List<Byte> list, String str){  // retrieves value of passed literal field and attach it along with its length to the ListArray
+		byte[] byteArray = new byte[str.length()];
+    	  
+		if("".equals(str))
+			return;
+    		  
+    	  byteArray = str.getBytes();
+  	
+    	  list.add((byte)str.length());	// Adding field length
+    	  
+    	  for(byte b: byteArray)	// Adding string field one byte at the time
+    		  list.add(b);
+      }
+      
+      static void AsnINT_LOMD(List<Byte> list, String str){  // compress two characters in a string into a hex byte ("AB" -> 0xAB) (compress rate 2:1) therefore length gets divided by 2
+    	  
+    	  if("".equals(str))
+    		  return;
+    	  str = Long.toHexString(new Long(str)).toUpperCase();	// Convert decimal number in string representation into hexadecimal string representation ("171" -> "AB")
+    	  
+     	 if (str.length() % 2 != 0){	// If decimal number in string has one digit, it will attach a zero since in the final step to convert into bytes requires two digits ("1" -> "01")
+    		 str = "0" + str;
+     	 }
+     	 
+     	 list.add((byte)(str.length() / 2)); 	// Add only half of the string length due to the ascii to byte compression
+       	  
+     	 for(int i=0; i<str.length(); i+=2){	// convert a pair of characters in the string into one byte at the time
+     		 String tempStr;
+     		 tempStr = str.substring(i,i+2);
+     		 list.add((byte)Integer.parseInt(tempStr,16));	// Important to use base 16 otherwise hexadecimal representations like "A" will throw an NumberFormatException because by default will be waiting a decimal number (0...10) no letters
+     	 }
+      }
+      
+      static void AsnINT(List<Byte> list, String str){  // compress two characters in a string into a hex byte ("AB" -> 0xAB) (compress rate 2:1) therefore length gets divided by 2
+    	  
+    	  if("".equals(str))
+    		  return;
+    	  
+    	  str = Long.toHexString(new Long(str)).toUpperCase();	// Convert decimal number in string representation into hexadecimal string representation ("171" -> "AB")
+    	  
+    	  if (str.length() % 2 != 0){	// If decimal number in string has one digit, it will attach a zero since in the final step to convert into bytes requires two digits ("1" -> "01")
+    		  str = "0" + str;
+    	  }
+          else
+          {
+        	  if ((int)Math.signum((byte)Integer.parseInt(str,16)) < 0){	// If the hexadecimal integer value is negative two leading zeros will be inserted ("AB" -> -125(int) then "00AB")
+        		  str = "00" + str;
+        	  }
+          }
+    	 
+       	  list.add((byte)(str.length() / 2)); 	// Add only half of the string length due to the ascii to byte compression
+       	  
+       	  for(int i=0; i<str.length(); i+=2){	// convert a pair of characters in the string into one byte at the time
+    		  String tempStr;
+	    	  tempStr = str.substring(i,i+2);
+	    	  list.add((byte)Integer.parseInt(tempStr,16));	// Important to use base 16 otherwise hexadecimal representations like "A" will throw an NumberFormatException because by default will be waiting a decimal number (0...10) no letters
+    	  }
+      }
+      
+      static void AsnHEX(List<Byte> list, String str){  // compress or convert two hex characters in a string into a hex byte ("AB" -> 0xAB) (compress rate 2:1) therefore length gets divided by 2. Input should already come in hex format so no need to do zero appending like we did in AsnINT method 
+    	  if("".equals(str))
+    		  return;
+
+    	  list.add((byte)(str.length() / 2)); 	// Add only half of the string length due to the ascii to byte compression
+       	  
+    	  for(int i=0; i<str.length()-1; i+=2){	// convert a pair of characters in the string into one byte at the time
+    		  String tempStr;
+	    	  tempStr = str.substring(i,i+2);
+	    	  list.add((byte)Integer.parseInt(tempStr,16));	// Important to use base 16 otherwise hexadecimal representations like "A" will throw an NumberFormatException because by default will be waiting a decimal number (0...10) no letters
+    	  }
+      }
+	
+      public static File addRLHFeatureIUM1205(byte[] byteArray){
+    	  ps("by: ");
+    	  psByteHEX(byteArray);
+    	  
+    	  StringBuilder sbHexa = new StringBuilder();	// string builder to hold on hexa-format bytes		    
+
+		    int i=0;
+		    int recordLength=0;
+		    int tagLength=0;
+
+		    for(byte by:byteArray){			// converts byte array into string builder
+		    	sbHexa.append(String.format("%02X",byteArray[i])); 
+		    	i++;										
+		    }
+		    ps("sbHexa:");
+		    System.out.println((sbHexa));
+		    
+		    /////////////////////////////////////////////////////
+		    i=0;
+		    
+		    if( sbHexa.substring(i, i+2).equals("A5") )
+		    {
+		    	i+=BYTE*2;	// move 2 bytes ahead
+		    	recordLength=Integer.parseInt(sbHexa.substring(i, i+2), 16); // converting and Hexadecimal String into a integer (decimal of course)
+		    	i+=BYTE;	// move to first tag
+		    	ps("tagi: " + sbHexa.substring(i, i+2));
+		    	while(i < recordLength){	//checking if end of record has been reached
+		    		ps("tag: " + sbHexa.substring(i, i+2));
+		    		if((sbHexa.substring(i, i+2).equals("44"))){	// checking for field 44 'mscid'
+		    			// modify mscid value (and length and record length if needed)
+		    			ps("mscid");
+		    			
+		    			i+=BYTE;	// move to length byte
+		    			tagLength=Integer.parseInt(sbHexa.substring(i, i+2), 16); // converting and Hexadecimal String into a integer (decimal of course)
+		    			ps("tagLength: " + tagLength);  			
+		    			
+		    			break;
+		    		}
+		    		else{
+		    			i+=BYTE;	// move to lengh byte
+		    			ps("hex_length: " + sbHexa.substring(i, i+2));
+		    			tagLength=Integer.parseInt(sbHexa.substring(i, i+2), 16); // converting and Hexadecimal String into a integer (decimal of course)
+		    			ps("tagLength: " + tagLength);
+		    			i+=BYTE;
+		    			i+=BYTE*tagLength;
+		    		}
+
+		    	}	// end while
+		    	
+		    }
+		    ///////////////////////////////////////////////////
+		    
+    	  return(new File("rlhOutputIUM1205"));
+      }
+      
+      public static File createFile(int iterations, int NumberCDRsPerFile, int numberLinesCSV){
+  	  
+  	  String fileName = "temp_IMM1205.Dat";
+  	  File imm_1205_dat = new File(fileName);
+  	  return imm_1205_dat;
+    }
+	
+    public static void writeFile(byte[] bFile, File imm_1205_dat, OutputStream os) {	// Creates .DAT file writing bytes in hexadecimal directly to file
+  	  DataOutputStream dos=null;
+
+  	  try{												// Write file
+  		  dos = new DataOutputStream(os); 			// Knows how to write raw data but not to a file
+  		  dos.write(bFile);                			// writing byte array into stream and implicitly to the file
+  		  
+  	  }catch(IOException e){
+  		  e.printStackTrace();
+  	  }
+  	  finally{
+  		  try{
+
+  				  dos.close();
+  				  File renamed_imm_1205_dat = new File("fileName");
+  				  imm_1205_dat.renameTo(renamed_imm_1205_dat);
+  		  }catch(NullPointerException e){
+  		  }catch(IOException e){
+  			  e.printStackTrace();
+  		  }
+  	  }
+    }
+    
+	public static void main(String[] args) {
+		strfileName="AT&T border zone.csv";
+		int lineCount=0;
+		BufferedReader br = null;
+		File file = null;
+		OutputStream os = null;
+   
+		String line = "";
+		String cvsSplitBy = ",";
+		int NumberCDRsPerFile=1;
+  	  	
+  	  try {
+		  br = new BufferedReader(new FileReader(strfileName));
+           
+		  line = br.readLine();          		// Reading first row (header row)We don't care its values because we know the position that corresponds to each field
+
+		  LineNumberReaderImplementationClass ln =  new LineNumberReaderImplementationClass();
+    	  int numberLinesCSV = ln.count();
+		  
+    	  mscid = new String [numberLinesCSV][3];
+    	  
+		  ps("line: " + line);
+		  
+		  while ((line = br.readLine()) != null) {    //Within this loop CDRs are written in a file an therefore files are being created.        	// Reading second, third, and so on.. rows (data rows). 
+			  columnValue=null;
+			  columnValue = line.split(cvsSplitBy);  	// use comma as separator
+			  ps("line: " + line);
+			  mscid[lineCount] = line.split(cvsSplitBy);  	// use comma as separator
+			  
+			  for(String[] strA: mscid)
+				  for(String str:strA)
+					  ps(str);
+			  
+			  ps("lineCount: " + lineCount);
+			  lineCount++;
+			  String fileName = "AT&T border zone.csv";
+		  	  File ium_1205_dat = new File(fileName);
+		  	  
+//		  	  os = new FileOutputStream (file);
+  		  }
+  		  
+//  		  byte[] cdrRecord = BuildIUM1205Record(rowMap);
+//  		  
+//    	  writeFile(cdrRecord, file);
+	  } catch (IOException e) {
+		  e.printStackTrace();
+	  } finally{
+		  try{
+			  br.close();
+		  } catch(IOException e){
+			  e.printStackTrace();
+		  }
+	  }
+  	  	
+		File file_out = new File("CDR_output.dat");
+		File rlh_file_out = new File("CDR_output.dat");
+		String fileName = "SMOMMS06_FIUM1205_ID000001_T20140729061500_R2.DAT";
+		ps("fileName_1: " + fileName);
+		
+		File binary_file = new File(fileName);
+		
+		fileName = "CDR_HEX_" + fileName; 
+		File file_out_hex = new File(fileName);
+		ps("fileName_2: " + fileName);
+
+		FileInputStream fis = null;
+
+		File input_file = binary_file; // file to be read
+
+		byte[] bFile = new byte[(int)input_file.length()];  // preparing arrays to hold the data
+		byte[] bFile2 = new byte[(int)input_file.length()];	// from read from the file
+		byte[] hFile = new byte[(int)input_file.length()*2]; // twice to include blank separator
+		
+		try{
+			fis = new FileInputStream(input_file); // initializing file abstract pathname of Production IUM1205 NO RLH ready
+//			ps("fis:");
+			ps("fis_available_1:" + fis.available());
+//			psFileInputStreamHEX(fis);
+			fis.read(bFile); // reading IUM1205 file characters into byte array bFile.
+			ps("fis_available_2:" + fis.available());
+			ps("bFile:");
+			psByteHEX(bFile);
+			
+			rlh_file_out = addRLHFeatureIUM1205(bFile);
+			
+//			ps("fis:");
+//			psFileInputStreamHEX(fis);
+			fis.close();
+			
+			OutputStream outputStream = new FileOutputStream (file_out);	// Knows how to write to a file 
+			ByteArrayOutputStream baos = new ByteArrayOutputStream();		// Knows how to write bytes but no to a file
+			
+			OutputStream rlhoutputStream = new FileOutputStream (rlh_file_out);
+			ByteArrayOutputStream rlhbaos = new ByteArrayOutputStream();
+			
+			
+			
+			baos.write(bFile);			// writing byte array into stream
+			baos.writeTo(outputStream); // writes steam content into file as characters
+			baos.close();				// remember to close it, or output file will be empty
+			
+			rlhbaos.write(bFile);			// writing byte array into stream
+			rlhbaos.writeTo(rlhoutputStream); // writes steam content into file as characters
+			rlhbaos.close();
+			
+		    ////////////////////////////
+			///////CONCEPT REFRESH//////
+		    // HEX: 31 32 2E 30 31 33 //
+		    // ASCII: 12.013          //
+		    ////////////////////////////
+
+//			ps("Raw byte from read File: ");
+//			psln(bFile[0]); //output: -65 (decimal) (Notice that value is  is 0xBF (191 decimal) but JVM thinks is two's complement representation 1011  1111)
+			
+		    StringBuilder hexa = new StringBuilder();	// string builder to hold on hexa-format bytes		    
+
+		    int i=0;
+
+		    for(byte by:bFile){			// converts ascii content of byte array into hexadecimal
+		    	hexa.append(String.format("%X ",bFile[i])); 
+		    	i++;										
+		    }
+		    ps("hexa:");
+		    System.out.println((hexa.toString()));
+		    
+		    hFile = String.valueOf(hexa).getBytes(); // converts string builder content into byte arrays
+		    OutputStream out = new FileOutputStream(file_out_hex);
+		    out.write(hFile);
+		    out.close();
+		    
+		    // casting to byte is required because 
+		    byte[] tFile = new byte[]{(byte) 0xBF, 0X53, (byte) 0X80, (byte) 0X80, 0X1, 0X53, (byte) 0X82, 0X6, 0X49, 0X4E, 0X56, 0X49, 0X54, 0X45, (byte) 0X83, 0X1, 0X0, (byte) 0XBF, (byte) 0X81, 0X4C};
+//		    OutputStream osf = new FileOutputStream(file_imm_1205);
+//		    DataOutputStream dos = new DataOutputStream(osf);
+//		    //dos.write(tFile); // Writing characters in IMM1205.DAT file. It works!!!!!!
+//		    osf.write(tFile);
+		    
+		}
+		catch(IOException e){
+			e.printStackTrace();
+		}
+		finally{
+			System.out.println("\nfinally executed");
+		}
+
+	}
+	static class LineNumberReaderImplementationClass
+	{
+		int linenumber = 0;
+		
+	    public int count()
+	    {	
+	    	try{
+	    		File file = new File(strfileName);
+	 
+	    		if(file.exists()){
+	    		    FileReader fr = new FileReader(file);
+	    		    LineNumberReader lnr = new LineNumberReader(fr);
+	 
+	    	            while ((lnr.readLine()) != null){
+	    	            		linenumber++;
+	    	            }
+	    	            
+	    	            lnr.close();
+	    	            return linenumber==0 ? 0: linenumber-numberOfHeaderLinesInCSVFile;	// No counting header only data rows
+	    		}else{
+	    			 System.out.println("File does not exists!");
+	    			 return linenumber;
+	    		}
+	    	}catch(IOException e){
+	    		e.printStackTrace();
+	    	}
+	    	return linenumber;
+	    }
+	}
+}

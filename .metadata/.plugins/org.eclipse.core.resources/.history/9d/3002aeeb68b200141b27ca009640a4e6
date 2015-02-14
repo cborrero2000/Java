@@ -1,0 +1,8 @@
+package cb.springdemo;
+
+public class Point {
+	
+	int x;
+	int y;
+
+}

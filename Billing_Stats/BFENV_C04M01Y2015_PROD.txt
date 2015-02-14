@@ -1,0 +1,120 @@
+./BFENV_B04012015A19_CAN_20150108_121120.log:*  Operational Script Job Activation, on Thu Jan  8 12:11:20 EST 2015
+./BFENV_B04012015A19_CAN_20150108_121120.log:*  Job: BFENV  Request: B04012015A19  Market: CAN  Host: rcihp010
+./BFENV_B04012015A19_CAN_20150108_121120.log:*  Operational Job ended successfuly on Thu Jan  8 13:43:44 EST 2015
+./BFENV_B04012015A13_CAN_20150108_112053.log:*  Operational Script Job Activation, on Thu Jan  8 11:20:53 EST 2015
+./BFENV_B04012015A13_CAN_20150108_112053.log:*  Job: BFENV  Request: B04012015A13  Market: CAN  Host: rcihp010
+./BFENV_B04012015A13_CAN_20150108_112053.log:*  Operational Job ended successfuly on Thu Jan  8 11:49:45 EST 2015
+./BFENV_B04012015A18_CAN_20150108_105725.log:*  Operational Script Job Activation, on Thu Jan  8 10:57:25 EST 2015
+./BFENV_B04012015A18_CAN_20150108_105725.log:*  Job: BFENV  Request: B04012015A18  Market: CAN  Host: rcihp010
+./BFENV_B04012015A18_CAN_20150108_105725.log:*  Operational Job ended successfuly on Thu Jan  8 11:48:29 EST 2015
+./BFENV_B04012015A14_CAN_20150108_112303.log:*  Operational Script Job Activation, on Thu Jan  8 11:23:03 EST 2015
+./BFENV_B04012015A14_CAN_20150108_112303.log:*  Job: BFENV  Request: B04012015A14  Market: CAN  Host: rcihp010
+./BFENV_B04012015A14_CAN_20150108_112303.log:*  Operational Job ended successfuly on Thu Jan  8 11:53:01 EST 2015
+./BFENV_B04012015A15_CAN_20150108_093924.log:*  Operational Script Job Activation, on Thu Jan  8 09:39:25 EST 2015
+./BFENV_B04012015A15_CAN_20150108_093924.log:*  Job: BFENV  Request: B04012015A15  Market: CAN  Host: rcihp010
+./BFENV_B04012015A15_CAN_20150108_093924.log:*  Operational Job ended successfuly on Thu Jan  8 10:20:51 EST 2015
+./BFENV_B04012015A17_CAN_20150108_112033.log:*  Operational Script Job Activation, on Thu Jan  8 11:20:33 EST 2015
+./BFENV_B04012015A17_CAN_20150108_112033.log:*  Job: BFENV  Request: B04012015A17  Market: CAN  Host: rcihp010
+./BFENV_B04012015A17_CAN_20150108_112033.log:*  Operational Job ended successfuly on Thu Jan  8 11:51:38 EST 2015
+./BFENV_B04012015A04_CAN_20150108_095536.log:*  Operational Script Job Activation, on Thu Jan  8 09:55:36 EST 2015
+./BFENV_B04012015A04_CAN_20150108_095536.log:*  Job: BFENV  Request: B04012015A04  Market: CAN  Host: rcihp010
+./BFENV_B04012015A04_CAN_20150108_095536.log:*  Operational Job ended successfuly on Thu Jan  8 10:19:37 EST 2015
+./BFENV_B04012015A12_CAN_20150108_111311.log:*  Operational Script Job Activation, on Thu Jan  8 11:13:11 EST 2015
+./BFENV_B04012015A12_CAN_20150108_111311.log:*  Job: BFENV  Request: B04012015A12  Market: CAN  Host: rcihp010
+./BFENV_B04012015A12_CAN_20150108_111311.log:*  Operational Job ended successfuly on Thu Jan  8 11:50:52 EST 2015
+./BFENV_B04012015A20_CAN_20150108_042742.log:*  Operational Script Job Activation, on Thu Jan  8 04:27:42 EST 2015
+./BFENV_B04012015A20_CAN_20150108_042742.log:*  Job: BFENV  Request: B04012015A20  Market: CAN  Host: rcihp010
+./BFENV_B04012015A20_CAN_20150108_042742.log:*  Operational Job ended successfuly on Thu Jan  8 04:54:31 EST 2015
+./BFENV_B04012015A03_CAN_20150108_112943.log:*  Operational Script Job Activation, on Thu Jan  8 11:29:43 EST 2015
+./BFENV_B04012015A03_CAN_20150108_112943.log:*  Job: BFENV  Request: B04012015A03  Market: CAN  Host: rcihp010
+./BFENV_B04012015A03_CAN_20150108_112943.log:*  Operational Job ended successfuly on Thu Jan  8 12:03:02 EST 2015
+./BFENV_B04012015A08_CAN_20150108_101936.log:*  Operational Script Job Activation, on Thu Jan  8 10:19:36 EST 2015
+./BFENV_B04012015A08_CAN_20150108_101936.log:*  Job: BFENV  Request: B04012015A08  Market: CAN  Host: rcihp010
+./BFENV_B04012015A08_CAN_20150108_101936.log:*  Operational Job ended successfuly on Thu Jan  8 11:15:06 EST 2015
+./BFENV_B04012015A07_CAN_20150108_104148.log:*  Operational Script Job Activation, on Thu Jan  8 10:41:48 EST 2015
+./BFENV_B04012015A07_CAN_20150108_104148.log:*  Job: BFENV  Request: B04012015A07  Market: CAN  Host: rcihp010
+./BFENV_B04012015A07_CAN_20150108_104148.log:*  Operational Job ended successfuly on Thu Jan  8 11:03:51 EST 2015
+./BFENV_B04012015A10_CAN_20150108_011447.log:*  Operational Script Job Activation, on Thu Jan  8 01:14:47 EST 2015
+./BFENV_B04012015A10_CAN_20150108_011447.log:*  Job: BFENV  Request: B04012015A10  Market: CAN  Host: rcihp010
+./BFENV_B04012015A10_CAN_20150108_011447.log:*  Operational Job ended successfuly on Thu Jan  8 01:53:55 EST 2015
+./BFENV_B04012015A02_CAN_20150108_073358.log:*  Operational Script Job Activation, on Thu Jan  8 07:33:58 EST 2015
+./BFENV_B04012015A02_CAN_20150108_073358.log:*  Job: BFENV  Request: B04012015A02  Market: CAN  Host: rcihp010
+./BFENV_B04012015A02_CAN_20150108_073358.log:*  Operational Job ended successfuly on Thu Jan  8 07:58:07 EST 2015
+./BFENV_B04012015A16_CAN_20150108_112652.log:*  Operational Script Job Activation, on Thu Jan  8 11:26:52 EST 2015
+./BFENV_B04012015A16_CAN_20150108_112652.log:*  Job: BFENV  Request: B04012015A16  Market: CAN  Host: rcihp010
+./BFENV_B04012015A16_CAN_20150108_112652.log:*  Operational Job ended successfuly on Thu Jan  8 12:04:31 EST 2015
+./BFENV_B04012015A05_CAN_20150108_095829.log:*  Operational Script Job Activation, on Thu Jan  8 09:58:29 EST 2015
+./BFENV_B04012015A05_CAN_20150108_095829.log:*  Job: BFENV  Request: B04012015A05  Market: CAN  Host: rcihp010
+./BFENV_B04012015A05_CAN_20150108_095829.log:*  Operational Job ended successfuly on Thu Jan  8 10:27:55 EST 2015
+./BFENV_B04012015A06_CAN_20150108_084038.log:*  Operational Script Job Activation, on Thu Jan  8 08:40:39 EST 2015
+./BFENV_B04012015A06_CAN_20150108_084038.log:*  Job: BFENV  Request: B04012015A06  Market: CAN  Host: rcihp010
+./BFENV_B04012015A06_CAN_20150108_084038.log:*  Operational Job ended successfuly on Thu Jan  8 09:10:12 EST 2015
+./BFENV_B04012015B19_CAN_20150107_191105.log:*  Operational Script Job Activation, on Wed Jan  7 19:11:05 EST 2015
+./BFENV_B04012015B19_CAN_20150107_191105.log:*  Job: BFENV  Request: B04012015B19  Market: CAN  Host: rcihp010
+./BFENV_B04012015B19_CAN_20150107_191105.log:*  Operational Job ended successfuly on Wed Jan  7 21:49:56 EST 2015
+./BFENV_B04012015A09_CAN_20150108_085930.log:*  Operational Script Job Activation, on Thu Jan  8 08:59:30 EST 2015
+./BFENV_B04012015A09_CAN_20150108_085930.log:*  Job: BFENV  Request: B04012015A09  Market: CAN  Host: rcihp010
+./BFENV_B04012015A09_CAN_20150108_085930.log:*  Operational Job ended successfuly on Thu Jan  8 09:49:19 EST 2015
+./BFENV_B04012015A11_CAN_20150108_114215.log:*  Operational Script Job Activation, on Thu Jan  8 11:42:15 EST 2015
+./BFENV_B04012015A11_CAN_20150108_114215.log:*  Job: BFENV  Request: B04012015A11  Market: CAN  Host: rcihp010
+./BFENV_B04012015A11_CAN_20150108_114215.log:*  Operational Job ended successfuly on Thu Jan  8 12:56:57 EST 2015
+./BFENV_B04012015B01_CAN_20150107_200559.log:*  Operational Script Job Activation, on Wed Jan  7 20:05:59 EST 2015
+./BFENV_B04012015B01_CAN_20150107_200559.log:*  Job: BFENV  Request: B04012015B01  Market: CAN  Host: rcihp010
+./BFENV_B04012015B01_CAN_20150107_200559.log:*  Operational Job ended successfuly on Wed Jan  7 23:55:58 EST 2015
+./BFENV_B04012015B20_CAN_20150107_185622.log:*  Operational Script Job Activation, on Wed Jan  7 18:56:22 EST 2015
+./BFENV_B04012015B20_CAN_20150107_185622.log:*  Job: BFENV  Request: B04012015B20  Market: CAN  Host: rcihp010
+./BFENV_B04012015B20_CAN_20150107_185622.log:*  Operational Job ended successfuly on Wed Jan  7 20:46:45 EST 2015
+./BFENV_B04012015B13_CAN_20150107_193355.log:*  Operational Script Job Activation, on Wed Jan  7 19:33:55 EST 2015
+./BFENV_B04012015B13_CAN_20150107_193355.log:*  Job: BFENV  Request: B04012015B13  Market: CAN  Host: rcihp010
+./BFENV_B04012015B13_CAN_20150107_193355.log:*  Operational Job ended successfuly on Wed Jan  7 22:26:02 EST 2015
+./BFENV_B04012015B17_CAN_20150107_195107.log:*  Operational Script Job Activation, on Wed Jan  7 19:51:07 EST 2015
+./BFENV_B04012015B17_CAN_20150107_195107.log:*  Job: BFENV  Request: B04012015B17  Market: CAN  Host: rcihp010
+./BFENV_B04012015B17_CAN_20150107_195107.log:*  Operational Job ended successfuly on Wed Jan  7 22:47:04 EST 2015
+./BFENV_B04012015B16_CAN_20150107_193112.log:*  Operational Script Job Activation, on Wed Jan  7 19:31:12 EST 2015
+./BFENV_B04012015B16_CAN_20150107_193112.log:*  Job: BFENV  Request: B04012015B16  Market: CAN  Host: rcihp010
+./BFENV_B04012015B16_CAN_20150107_193112.log:*  Operational Job ended successfuly on Wed Jan  7 22:28:46 EST 2015
+./BFENV_B04012015B14_CAN_20150107_193415.log:*  Operational Script Job Activation, on Wed Jan  7 19:34:15 EST 2015
+./BFENV_B04012015B14_CAN_20150107_193415.log:*  Job: BFENV  Request: B04012015B14  Market: CAN  Host: rcihp010
+./BFENV_B04012015B14_CAN_20150107_193415.log:*  Operational Job ended successfuly on Wed Jan  7 22:44:42 EST 2015
+./BFENV_B04012015B15_CAN_20150107_193154.log:*  Operational Script Job Activation, on Wed Jan  7 19:31:54 EST 2015
+./BFENV_B04012015B15_CAN_20150107_193154.log:*  Job: BFENV  Request: B04012015B15  Market: CAN  Host: rcihp010
+./BFENV_B04012015B15_CAN_20150107_193154.log:*  Operational Job ended successfuly on Wed Jan  7 22:29:04 EST 2015
+./BFENV_B04012015B03_CAN_20150107_184836.log:*  Operational Script Job Activation, on Wed Jan  7 18:48:37 EST 2015
+./BFENV_B04012015B03_CAN_20150107_184836.log:*  Job: BFENV  Request: B04012015B03  Market: CAN  Host: rcihp010
+./BFENV_B04012015B03_CAN_20150107_184836.log:*  Operational Job ended successfuly on Wed Jan  7 21:16:07 EST 2015
+./BFENV_B04012015B18_CAN_20150107_203207.log:*  Operational Script Job Activation, on Wed Jan  7 20:32:07 EST 2015
+./BFENV_B04012015B18_CAN_20150107_203207.log:*  Job: BFENV  Request: B04012015B18  Market: CAN  Host: rcihp010
+./BFENV_B04012015B18_CAN_20150107_203207.log:*  Operational Job ended successfuly on Wed Jan  7 22:47:57 EST 2015
+./BFENV_B04012015B02_CAN_20150107_195017.log:*  Operational Script Job Activation, on Wed Jan  7 19:50:17 EST 2015
+./BFENV_B04012015B02_CAN_20150107_195017.log:*  Job: BFENV  Request: B04012015B02  Market: CAN  Host: rcihp010
+./BFENV_B04012015B02_CAN_20150107_195017.log:*  Operational Job ended successfuly on Wed Jan  7 23:07:01 EST 2015
+./BFENV_B04012015B05_CAN_20150107_182849.log:*  Operational Script Job Activation, on Wed Jan  7 18:28:49 EST 2015
+./BFENV_B04012015B05_CAN_20150107_182849.log:*  Job: BFENV  Request: B04012015B05  Market: CAN  Host: rcihp010
+./BFENV_B04012015B05_CAN_20150107_182849.log:*  Operational Job ended successfuly on Wed Jan  7 21:03:53 EST 2015
+./BFENV_B04012015B09_CAN_20150107_184510.log:*  Operational Script Job Activation, on Wed Jan  7 18:45:10 EST 2015
+./BFENV_B04012015B09_CAN_20150107_184510.log:*  Job: BFENV  Request: B04012015B09  Market: CAN  Host: rcihp010
+./BFENV_B04012015B09_CAN_20150107_184510.log:*  Operational Job ended successfuly on Wed Jan  7 21:45:57 EST 2015
+./BFENV_B04012015B06_CAN_20150107_183702.log:*  Operational Script Job Activation, on Wed Jan  7 18:37:02 EST 2015
+./BFENV_B04012015B06_CAN_20150107_183702.log:*  Job: BFENV  Request: B04012015B06  Market: CAN  Host: rcihp010
+./BFENV_B04012015B06_CAN_20150107_183702.log:*  Operational Job ended successfuly on Wed Jan  7 21:32:19 EST 2015
+./BFENV_B04012015B08_CAN_20150107_181820.log:*  Operational Script Job Activation, on Wed Jan  7 18:18:20 EST 2015
+./BFENV_B04012015B08_CAN_20150107_181820.log:*  Job: BFENV  Request: B04012015B08  Market: CAN  Host: rcihp010
+./BFENV_B04012015B08_CAN_20150107_181820.log:*  Operational Job ended successfuly on Wed Jan  7 20:44:28 EST 2015
+./BFENV_B04012015B07_CAN_20150107_183600.log:*  Operational Script Job Activation, on Wed Jan  7 18:36:00 EST 2015
+./BFENV_B04012015B07_CAN_20150107_183600.log:*  Job: BFENV  Request: B04012015B07  Market: CAN  Host: rcihp010
+./BFENV_B04012015B07_CAN_20150107_183600.log:*  Operational Job ended successfuly on Wed Jan  7 21:44:01 EST 2015
+./BFENV_B04012015B10_CAN_20150107_185542.log:*  Operational Script Job Activation, on Wed Jan  7 18:55:42 EST 2015
+./BFENV_B04012015B10_CAN_20150107_185542.log:*  Job: BFENV  Request: B04012015B10  Market: CAN  Host: rcihp010
+./BFENV_B04012015B10_CAN_20150107_185542.log:*  Operational Job ended successfuly on Wed Jan  7 21:52:56 EST 2015
+./BFENV_B04012015B04_CAN_20150107_181227.log:*  Operational Script Job Activation, on Wed Jan  7 18:12:27 EST 2015
+./BFENV_B04012015B04_CAN_20150107_181227.log:*  Job: BFENV  Request: B04012015B04  Market: CAN  Host: rcihp010
+./BFENV_B04012015B04_CAN_20150107_181227.log:*  Operational Job ended successfuly on Wed Jan  7 20:34:20 EST 2015
+./BFENV_B04012015B11_CAN_20150107_185652.log:*  Operational Script Job Activation, on Wed Jan  7 18:56:52 EST 2015
+./BFENV_B04012015B11_CAN_20150107_185652.log:*  Job: BFENV  Request: B04012015B11  Market: CAN  Host: rcihp010
+./BFENV_B04012015B11_CAN_20150107_185652.log:*  Operational Job ended successfuly on Wed Jan  7 21:32:39 EST 2015
+./BFENV_B04012015B12_CAN_20150107_192159.log:*  Operational Script Job Activation, on Wed Jan  7 19:21:59 EST 2015
+./BFENV_B04012015B12_CAN_20150107_192159.log:*  Job: BFENV  Request: B04012015B12  Market: CAN  Host: rcihp010
+./BFENV_B04012015B12_CAN_20150107_192159.log:*  Operational Job ended successfuly on Wed Jan  7 22:17:55 EST 2015
+./BFENV_B04012015A01_CAN_20150108_091746.log:*  Operational Script Job Activation, on Thu Jan  8 09:17:47 EST 2015
+./BFENV_B04012015A01_CAN_20150108_091746.log:*  Job: BFENV  Request: B04012015A01  Market: CAN  Host: rcihp010
+./BFENV_B04012015A01_CAN_20150108_091746.log:*  Operational Job ended successfuly on Thu Jan  8 09:43:32 EST 2015

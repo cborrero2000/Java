@@ -1,0 +1,7 @@
+127.0.0.1 - - [11/Apr/2014:14:46:04 -0400] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Apr/2014:14:47:08 -0400] "GET /com.youtube.rest/api/v1/status/version HTTP/1.1" 200 33
+0:0:0:0:0:0:0:1 - - [11/Apr/2014:14:47:25 -0400] "GET /com.youtube.rest/ HTTP/1.1" 304 -
+10.16.136.130 - - [11/Apr/2014:15:22:53 -0400] "GET /com.youtube.rest HTTP/1.1" 302 -
+10.16.136.130 - - [11/Apr/2014:15:22:53 -0400] "GET /com.youtube.rest/ HTTP/1.1" 200 296
+10.16.136.130 - - [11/Apr/2014:15:26:03 -0400] "GET /com.youtube.rest HTTP/1.1" 302 -
+10.16.136.130 - - [11/Apr/2014:15:26:03 -0400] "GET /com.youtube.rest/ HTTP/1.1" 200 296

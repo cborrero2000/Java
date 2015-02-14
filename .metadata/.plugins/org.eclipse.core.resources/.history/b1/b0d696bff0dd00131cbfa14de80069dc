@@ -1,0 +1,16 @@
+package enthuware;
+
+import static enthuware.PrintScreen.*;
+
+public class Enthuware_28 {
+	public static void main(String[] args){ 
+		for(int i=0; i<3; i++){ 
+			System.out.print(args+" ");
+		}
+		
+		String str = "Hello Carlos Have faith The Kindom is waiting for you";
+		ps("\n"+str);
+		psln(str.substring(5));
+		ps(str.substring(str.indexOf('H')));
+	}
+}

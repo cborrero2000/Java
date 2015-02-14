@@ -1,0 +1,160 @@
+./BLUNDO_S04112014A04_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A04_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 04) has started
+./BLUNDO_S04112014A04_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 04) has started
+./BLUNDO_S04112014A04_CAN_20141109_132527.log:***  148 BANs                    read . 
+./BLUNDO_S04112014A04_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A04_CAN_20141109_132527.log:***  148 BANs                    succeeded . 
+./BLUNDO_S04112014A04_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 04) has successfully completed
+./BLUNDO_S04112014A04_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:21 EST 2014
+./BLUNDO_S04112014A06_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A06_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 06) has started
+./BLUNDO_S04112014A06_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 06) has started
+./BLUNDO_S04112014A06_CAN_20141109_132527.log:***  249 BANs                    read . 
+./BLUNDO_S04112014A06_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A06_CAN_20141109_132527.log:***  249 BANs                    succeeded . 
+./BLUNDO_S04112014A06_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 06) has successfully completed
+./BLUNDO_S04112014A06_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:30:10 EST 2014
+./BLUNDO_S04112014A05_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A05_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 05) has started
+./BLUNDO_S04112014A05_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 05) has started
+./BLUNDO_S04112014A05_CAN_20141109_132527.log:***  90 BANs                    read . 
+./BLUNDO_S04112014A05_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A05_CAN_20141109_132527.log:***  90 BANs                    succeeded . 
+./BLUNDO_S04112014A05_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 05) has successfully completed
+./BLUNDO_S04112014A05_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:28:19 EST 2014
+./BLUNDO_S04112014A03_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A03_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 03) has started
+./BLUNDO_S04112014A03_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 03) has started
+./BLUNDO_S04112014A03_CAN_20141109_132527.log:***  51 BANs                    read . 
+./BLUNDO_S04112014A03_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A03_CAN_20141109_132527.log:***  51 BANs                    succeeded . 
+./BLUNDO_S04112014A03_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 03) has successfully completed
+./BLUNDO_S04112014A03_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:27:55 EST 2014
+./BLUNDO_S04112014A08_CAN_20141109_132528.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:28 EST 2014
+./BLUNDO_S04112014A08_CAN_20141109_132528.log:*** Program BILLING UNDO (group no. 08) has started
+./BLUNDO_S04112014A08_CAN_20141109_132528.log:   Program BILLING UNDO (group no. 08) has started
+./BLUNDO_S04112014A08_CAN_20141109_132528.log:***  125 BANs                    read . 
+./BLUNDO_S04112014A08_CAN_20141109_132528.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A08_CAN_20141109_132528.log:***  125 BANs                    succeeded . 
+./BLUNDO_S04112014A08_CAN_20141109_132528.log:*** Program BILLING UNDO (group no. 08) has successfully completed
+./BLUNDO_S04112014A08_CAN_20141109_132528.log:*  Operational Job ended successfuly on Sun Nov  9 13:28:37 EST 2014
+./BLUNDO_S04112014A02_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A02_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 02) has started
+./BLUNDO_S04112014A02_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 02) has started
+./BLUNDO_S04112014A02_CAN_20141109_132527.log:***  105 BANs                    read . 
+./BLUNDO_S04112014A02_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A02_CAN_20141109_132527.log:***  105 BANs                    succeeded . 
+./BLUNDO_S04112014A02_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 02) has successfully completed
+./BLUNDO_S04112014A02_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:28:10 EST 2014
+./BLUNDO_S04112014A07_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A07_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 07) has started
+./BLUNDO_S04112014A07_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 07) has started
+./BLUNDO_S04112014A07_CAN_20141109_132527.log:***  213 BANs                    read . 
+./BLUNDO_S04112014A07_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A07_CAN_20141109_132527.log:***  213 BANs                    succeeded . 
+./BLUNDO_S04112014A07_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 07) has successfully completed
+./BLUNDO_S04112014A07_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:34 EST 2014
+./BLUNDO_S04112014A11_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A11_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 11) has started
+./BLUNDO_S04112014A11_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 11) has started
+./BLUNDO_S04112014A11_CAN_20141109_132527.log:***  94 BANs                    read . 
+./BLUNDO_S04112014A11_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A11_CAN_20141109_132527.log:***  94 BANs                    succeeded . 
+./BLUNDO_S04112014A11_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 11) has successfully completed
+./BLUNDO_S04112014A11_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:45 EST 2014
+./BLUNDO_S04112014A10_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A10_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 10) has started
+./BLUNDO_S04112014A10_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 10) has started
+./BLUNDO_S04112014A10_CAN_20141109_132527.log:***  281 BANs                    read . 
+./BLUNDO_S04112014A10_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A10_CAN_20141109_132527.log:***  281 BANs                    succeeded . 
+./BLUNDO_S04112014A10_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 10) has successfully completed
+./BLUNDO_S04112014A10_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:30:16 EST 2014
+./BLUNDO_S04112014A12_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A12_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 12) has started
+./BLUNDO_S04112014A12_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 12) has started
+./BLUNDO_S04112014A12_CAN_20141109_132527.log:***  308 BANs                    read . 
+./BLUNDO_S04112014A12_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A12_CAN_20141109_132527.log:***  308 BANs                    succeeded . 
+./BLUNDO_S04112014A12_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 12) has successfully completed
+./BLUNDO_S04112014A12_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:30:26 EST 2014
+./BLUNDO_S04112014A14_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A14_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 14) has started
+./BLUNDO_S04112014A14_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 14) has started
+./BLUNDO_S04112014A14_CAN_20141109_132527.log:***  273 BANs                    read . 
+./BLUNDO_S04112014A14_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A14_CAN_20141109_132527.log:***  273 BANs                    succeeded . 
+./BLUNDO_S04112014A14_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 14) has successfully completed
+./BLUNDO_S04112014A14_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:59 EST 2014
+./BLUNDO_S04112014A16_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:28 EST 2014
+./BLUNDO_S04112014A16_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 16) has started
+./BLUNDO_S04112014A16_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 16) has started
+./BLUNDO_S04112014A16_CAN_20141109_132527.log:***  271 BANs                    read . 
+./BLUNDO_S04112014A16_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A16_CAN_20141109_132527.log:***  271 BANs                    succeeded . 
+./BLUNDO_S04112014A16_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 16) has successfully completed
+./BLUNDO_S04112014A16_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:30:07 EST 2014
+./BLUNDO_S04112014A15_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A15_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 15) has started
+./BLUNDO_S04112014A15_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 15) has started
+./BLUNDO_S04112014A15_CAN_20141109_132527.log:***  246 BANs                    read . 
+./BLUNDO_S04112014A15_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A15_CAN_20141109_132527.log:***  246 BANs                    succeeded . 
+./BLUNDO_S04112014A15_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 15) has successfully completed
+./BLUNDO_S04112014A15_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:55 EST 2014
+./BLUNDO_S04112014A13_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A13_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 13) has started
+./BLUNDO_S04112014A13_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 13) has started
+./BLUNDO_S04112014A13_CAN_20141109_132527.log:***  240 BANs                    read . 
+./BLUNDO_S04112014A13_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A13_CAN_20141109_132527.log:***  240 BANs                    succeeded . 
+./BLUNDO_S04112014A13_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 13) has successfully completed
+./BLUNDO_S04112014A13_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:52 EST 2014
+./BLUNDO_S04112014A20_CAN_20141109_132528.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:28 EST 2014
+./BLUNDO_S04112014A20_CAN_20141109_132528.log:*** Program BILLING UNDO (group no. 20) has started
+./BLUNDO_S04112014A20_CAN_20141109_132528.log:   Program BILLING UNDO (group no. 20) has started
+./BLUNDO_S04112014A20_CAN_20141109_132528.log:***  214 BANs                    read . 
+./BLUNDO_S04112014A20_CAN_20141109_132528.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A20_CAN_20141109_132528.log:***  214 BANs                    succeeded . 
+./BLUNDO_S04112014A20_CAN_20141109_132528.log:*** Program BILLING UNDO (group no. 20) has successfully completed
+./BLUNDO_S04112014A20_CAN_20141109_132528.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:21 EST 2014
+./BLUNDO_S04112014A17_CAN_20141109_132528.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:28 EST 2014
+./BLUNDO_S04112014A17_CAN_20141109_132528.log:*** Program BILLING UNDO (group no. 17) has started
+./BLUNDO_S04112014A17_CAN_20141109_132528.log:   Program BILLING UNDO (group no. 17) has started
+./BLUNDO_S04112014A17_CAN_20141109_132528.log:***  195 BANs                    read . 
+./BLUNDO_S04112014A17_CAN_20141109_132528.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A17_CAN_20141109_132528.log:***  195 BANs                    succeeded . 
+./BLUNDO_S04112014A17_CAN_20141109_132528.log:*** Program BILLING UNDO (group no. 17) has successfully completed
+./BLUNDO_S04112014A17_CAN_20141109_132528.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:26 EST 2014
+./BLUNDO_S04112014A09_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A09_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 09) has started
+./BLUNDO_S04112014A09_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 09) has started
+./BLUNDO_S04112014A09_CAN_20141109_132527.log:***  158 BANs                    read . 
+./BLUNDO_S04112014A09_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A09_CAN_20141109_132527.log:***  158 BANs                    succeeded . 
+./BLUNDO_S04112014A09_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 09) has successfully completed
+./BLUNDO_S04112014A09_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:22 EST 2014
+./BLUNDO_S04112014A19_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A19_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 19) has started
+./BLUNDO_S04112014A19_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 19) has started
+./BLUNDO_S04112014A19_CAN_20141109_132527.log:***  283 BANs                    read . 
+./BLUNDO_S04112014A19_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A19_CAN_20141109_132527.log:***  283 BANs                    succeeded . 
+./BLUNDO_S04112014A19_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 19) has successfully completed
+./BLUNDO_S04112014A19_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:30:07 EST 2014
+./BLUNDO_S04112014A18_CAN_20141109_132528.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:28 EST 2014
+./BLUNDO_S04112014A18_CAN_20141109_132528.log:*** Program BILLING UNDO (group no. 18) has started
+./BLUNDO_S04112014A18_CAN_20141109_132528.log:   Program BILLING UNDO (group no. 18) has started
+./BLUNDO_S04112014A18_CAN_20141109_132528.log:***  140 BANs                    read . 
+./BLUNDO_S04112014A18_CAN_20141109_132528.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A18_CAN_20141109_132528.log:***  140 BANs                    succeeded . 
+./BLUNDO_S04112014A18_CAN_20141109_132528.log:*** Program BILLING UNDO (group no. 18) has successfully completed
+./BLUNDO_S04112014A18_CAN_20141109_132528.log:*  Operational Job ended successfuly on Sun Nov  9 13:29:40 EST 2014
+./BLUNDO_S04112014A01_CAN_20141109_132527.log:*  Operational Script Job Activation, on Sun Nov  9 13:25:27 EST 2014
+./BLUNDO_S04112014A01_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 01) has started
+./BLUNDO_S04112014A01_CAN_20141109_132527.log:   Program BILLING UNDO (group no. 01) has started
+./BLUNDO_S04112014A01_CAN_20141109_132527.log:***  83 BANs                    read . 
+./BLUNDO_S04112014A01_CAN_20141109_132527.log:***  0 BANs                    rejected . 
+./BLUNDO_S04112014A01_CAN_20141109_132527.log:***  83 BANs                    succeeded . 
+./BLUNDO_S04112014A01_CAN_20141109_132527.log:*** Program BILLING UNDO (group no. 01) has successfully completed
+./BLUNDO_S04112014A01_CAN_20141109_132527.log:*  Operational Job ended successfuly on Sun Nov  9 13:28:41 EST 2014

@@ -1,0 +1,360 @@
+./BLPREP_P04012015B01_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015B01_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 01) has started
+./BLPREP_P04012015B01_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 01) has started
+./BLPREP_P04012015B01_CAN_20150129_220037.log:***  36282 BANs                    read . 
+./BLPREP_P04012015B01_CAN_20150129_220037.log:***  414 BANs                    rejected . 
+./BLPREP_P04012015B01_CAN_20150129_220037.log:***  35868 BANs                    succeeded . 
+./BLPREP_P04012015B01_CAN_20150129_220037.log:***  23073 CTNs                    succeeded . 
+./BLPREP_P04012015B01_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 01) has successfully completed
+./BLPREP_P04012015B01_CAN_20150129_220037.log:*  Operational Job ended successfuly on Fri Jan 30 02:18:24 EST 2015
+./BLPREP_P04012015B05_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015B05_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 05) has started
+./BLPREP_P04012015B05_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 05) has started
+./BLPREP_P04012015B05_CAN_20150129_220037.log:***  21987 BANs                    read . 
+./BLPREP_P04012015B05_CAN_20150129_220037.log:***  343 BANs                    rejected . 
+./BLPREP_P04012015B05_CAN_20150129_220037.log:***  21644 BANs                    succeeded . 
+./BLPREP_P04012015B05_CAN_20150129_220037.log:***  18438 CTNs                    succeeded . 
+./BLPREP_P04012015B05_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 05) has successfully completed
+./BLPREP_P04012015B05_CAN_20150129_220037.log:*  Operational Job ended successfuly on Fri Jan 30 00:23:55 EST 2015
+./BLPREP_P04012015A03_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015A03_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 03) has started
+./BLPREP_P04012015A03_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 03) has started
+./BLPREP_P04012015A03_CAN_20150129_220037.log:***  742 BANs                    read . 
+./BLPREP_P04012015A03_CAN_20150129_220037.log:***  28 BANs                    rejected . 
+./BLPREP_P04012015A03_CAN_20150129_220037.log:***  654 BANs                    succeeded . 
+./BLPREP_P04012015A03_CAN_20150129_220037.log:***  989 CTNs                    succeeded . 
+./BLPREP_P04012015A03_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 03) has successfully completed
+./BLPREP_P04012015A03_CAN_20150129_220037.log:*  Operational Job ended successfuly on Thu Jan 29 22:17:05 EST 2015
+./BLPREP_P04012015B04_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015B04_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 04) has started
+./BLPREP_P04012015B04_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 04) has started
+./BLPREP_P04012015B04_CAN_20150129_220037.log:***  17449 BANs                    read . 
+./BLPREP_P04012015B04_CAN_20150129_220037.log:***  274 BANs                    rejected . 
+./BLPREP_P04012015B04_CAN_20150129_220037.log:***  17175 BANs                    succeeded . 
+./BLPREP_P04012015B04_CAN_20150129_220037.log:***  16398 CTNs                    succeeded . 
+./BLPREP_P04012015B04_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 04) has successfully completed
+./BLPREP_P04012015B04_CAN_20150129_220037.log:*  Operational Job ended successfuly on Thu Jan 29 23:57:43 EST 2015
+./BLPREP_P04012015A02_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015A02_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 02) has started
+./BLPREP_P04012015A02_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 02) has started
+./BLPREP_P04012015A02_CAN_20150129_220037.log:***  655 BANs                    read . 
+./BLPREP_P04012015A02_CAN_20150129_220037.log:***  0 BANs                    rejected . 
+./BLPREP_P04012015A02_CAN_20150129_220037.log:***  630 BANs                    succeeded . 
+./BLPREP_P04012015A02_CAN_20150129_220037.log:***  1192 CTNs                    succeeded . 
+./BLPREP_P04012015A02_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 02) has successfully completed
+./BLPREP_P04012015A02_CAN_20150129_220037.log:*  Operational Job ended successfuly on Thu Jan 29 22:30:57 EST 2015
+./BLPREP_P04012015B06_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015B06_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 06) has started
+./BLPREP_P04012015B06_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 06) has started
+./BLPREP_P04012015B06_CAN_20150129_220037.log:***  25080 BANs                    read . 
+./BLPREP_P04012015B06_CAN_20150129_220037.log:***  347 BANs                    rejected . 
+./BLPREP_P04012015B06_CAN_20150129_220037.log:***  24733 BANs                    succeeded . 
+./BLPREP_P04012015B06_CAN_20150129_220037.log:***  19162 CTNs                    succeeded . 
+./BLPREP_P04012015B06_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 06) has successfully completed
+./BLPREP_P04012015B06_CAN_20150129_220037.log:*  Operational Job ended successfuly on Fri Jan 30 00:34:12 EST 2015
+./BLPREP_P04012015A06_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015A06_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 06) has started
+./BLPREP_P04012015A06_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 06) has started
+./BLPREP_P04012015A06_CAN_20150129_220037.log:***  641 BANs                    read . 
+./BLPREP_P04012015A06_CAN_20150129_220037.log:***  57 BANs                    rejected . 
+./BLPREP_P04012015A06_CAN_20150129_220037.log:***  513 BANs                    succeeded . 
+./BLPREP_P04012015A06_CAN_20150129_220037.log:***  790 CTNs                    succeeded . 
+./BLPREP_P04012015A06_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 06) has successfully completed
+./BLPREP_P04012015A06_CAN_20150129_220037.log:*  Operational Job ended successfuly on Thu Jan 29 22:14:19 EST 2015
+./BLPREP_P04012015B02_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015B02_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 02) has started
+./BLPREP_P04012015B02_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 02) has started
+./BLPREP_P04012015B02_CAN_20150129_220037.log:***  29269 BANs                    read . 
+./BLPREP_P04012015B02_CAN_20150129_220037.log:***  407 BANs                    rejected . 
+./BLPREP_P04012015B02_CAN_20150129_220037.log:***  28862 BANs                    succeeded . 
+./BLPREP_P04012015B02_CAN_20150129_220037.log:***  23466 CTNs                    succeeded . 
+./BLPREP_P04012015B02_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 02) has successfully completed
+./BLPREP_P04012015B02_CAN_20150129_220037.log:*  Operational Job ended successfuly on Fri Jan 30 01:59:03 EST 2015
+./BLPREP_P04012015B03_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015B03_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 03) has started
+./BLPREP_P04012015B03_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 03) has started
+./BLPREP_P04012015B03_CAN_20150129_220037.log:***  18023 BANs                    read . 
+./BLPREP_P04012015B03_CAN_20150129_220037.log:***  335 BANs                    rejected . 
+./BLPREP_P04012015B03_CAN_20150129_220037.log:***  17688 BANs                    succeeded . 
+./BLPREP_P04012015B03_CAN_20150129_220037.log:***  18772 CTNs                    succeeded . 
+./BLPREP_P04012015B03_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 03) has successfully completed
+./BLPREP_P04012015B03_CAN_20150129_220037.log:*  Operational Job ended successfuly on Fri Jan 30 00:02:40 EST 2015
+./BLPREP_P04012015A05_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015A05_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 05) has started
+./BLPREP_P04012015A05_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 05) has started
+./BLPREP_P04012015A05_CAN_20150129_220037.log:***  557 BANs                    read . 
+./BLPREP_P04012015A05_CAN_20150129_220037.log:***  48 BANs                    rejected . 
+./BLPREP_P04012015A05_CAN_20150129_220037.log:***  461 BANs                    succeeded . 
+./BLPREP_P04012015A05_CAN_20150129_220037.log:***  609 CTNs                    succeeded . 
+./BLPREP_P04012015A05_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 05) has successfully completed
+./BLPREP_P04012015A05_CAN_20150129_220037.log:*  Operational Job ended successfuly on Thu Jan 29 22:12:11 EST 2015
+./BLPREP_P04012015A04_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015A04_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 04) has started
+./BLPREP_P04012015A04_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 04) has started
+./BLPREP_P04012015A04_CAN_20150129_220037.log:***  707 BANs                    read . 
+./BLPREP_P04012015A04_CAN_20150129_220037.log:***  57 BANs                    rejected . 
+./BLPREP_P04012015A04_CAN_20150129_220037.log:***  599 BANs                    succeeded . 
+./BLPREP_P04012015A04_CAN_20150129_220037.log:***  766 CTNs                    succeeded . 
+./BLPREP_P04012015A04_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 04) has successfully completed
+./BLPREP_P04012015A04_CAN_20150129_220037.log:*  Operational Job ended successfuly on Thu Jan 29 22:12:31 EST 2015
+./BLPREP_P04012015A01_CAN_20150129_220037.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:37 EST 2015
+./BLPREP_P04012015A01_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 01) has started
+./BLPREP_P04012015A01_CAN_20150129_220037.log:   Program BILL PREPARATION (group no. 01) has started
+./BLPREP_P04012015A01_CAN_20150129_220037.log:***  731 BANs                    read . 
+./BLPREP_P04012015A01_CAN_20150129_220037.log:***  0 BANs                    rejected . 
+./BLPREP_P04012015A01_CAN_20150129_220037.log:***  695 BANs                    succeeded . 
+./BLPREP_P04012015A01_CAN_20150129_220037.log:***  1259 CTNs                    succeeded . 
+./BLPREP_P04012015A01_CAN_20150129_220037.log:*** Program BILL PREPARATION (group no. 01) has successfully completed
+./BLPREP_P04012015A01_CAN_20150129_220037.log:*  Operational Job ended successfuly on Thu Jan 29 22:32:34 EST 2015
+./BLPREP_P04012015B07_CAN_20150129_220059.log:*  Operational Script Job Activation, on Thu Jan 29 22:00:59 EST 2015
+./BLPREP_P04012015B07_CAN_20150129_220059.log:*** Program BILL PREPARATION (group no. 07) has started
+./BLPREP_P04012015B07_CAN_20150129_220059.log:   Program BILL PREPARATION (group no. 07) has started
+./BLPREP_P04012015B07_CAN_20150129_220059.log:***  26902 BANs                    read . 
+./BLPREP_P04012015B07_CAN_20150129_220059.log:***  303 BANs                    rejected . 
+./BLPREP_P04012015B07_CAN_20150129_220059.log:***  26599 BANs                    succeeded . 
+./BLPREP_P04012015B07_CAN_20150129_220059.log:***  20055 CTNs                    succeeded . 
+./BLPREP_P04012015B07_CAN_20150129_220059.log:*** Program BILL PREPARATION (group no. 07) has successfully completed
+./BLPREP_P04012015B07_CAN_20150129_220059.log:*  Operational Job ended successfuly on Fri Jan 30 00:43:09 EST 2015
+./BLPREP_P04012015B09_CAN_20150129_220059.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:00 EST 2015
+./BLPREP_P04012015B09_CAN_20150129_220059.log:*** Program BILL PREPARATION (group no. 09) has started
+./BLPREP_P04012015B09_CAN_20150129_220059.log:   Program BILL PREPARATION (group no. 09) has started
+./BLPREP_P04012015B09_CAN_20150129_220059.log:***  28566 BANs                    read . 
+./BLPREP_P04012015B09_CAN_20150129_220059.log:***  206 BANs                    rejected . 
+./BLPREP_P04012015B09_CAN_20150129_220059.log:***  28360 BANs                    succeeded . 
+./BLPREP_P04012015B09_CAN_20150129_220059.log:***  18331 CTNs                    succeeded . 
+./BLPREP_P04012015B09_CAN_20150129_220059.log:*** Program BILL PREPARATION (group no. 09) has successfully completed
+./BLPREP_P04012015B09_CAN_20150129_220059.log:*  Operational Job ended successfuly on Fri Jan 30 00:51:55 EST 2015
+./BLPREP_P04012015B08_CAN_20150129_220100.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:00 EST 2015
+./BLPREP_P04012015B08_CAN_20150129_220100.log:*** Program BILL PREPARATION (group no. 08) has started
+./BLPREP_P04012015B08_CAN_20150129_220100.log:   Program BILL PREPARATION (group no. 08) has started
+./BLPREP_P04012015B08_CAN_20150129_220100.log:***  23066 BANs                    read . 
+./BLPREP_P04012015B08_CAN_20150129_220100.log:***  198 BANs                    rejected . 
+./BLPREP_P04012015B08_CAN_20150129_220100.log:***  22868 BANs                    succeeded . 
+./BLPREP_P04012015B08_CAN_20150129_220100.log:***  15953 CTNs                    succeeded . 
+./BLPREP_P04012015B08_CAN_20150129_220100.log:*** Program BILL PREPARATION (group no. 08) has successfully completed
+./BLPREP_P04012015B08_CAN_20150129_220100.log:*  Operational Job ended successfuly on Fri Jan 30 00:22:41 EST 2015
+./BLPREP_P04012015B13_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015B13_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 13) has started
+./BLPREP_P04012015B13_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 13) has started
+./BLPREP_P04012015B13_CAN_20150129_220101.log:***  31568 BANs                    read . 
+./BLPREP_P04012015B13_CAN_20150129_220101.log:***  201 BANs                    rejected . 
+./BLPREP_P04012015B13_CAN_20150129_220101.log:***  31367 BANs                    succeeded . 
+./BLPREP_P04012015B13_CAN_20150129_220101.log:***  17362 CTNs                    succeeded . 
+./BLPREP_P04012015B13_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 13) has successfully completed
+./BLPREP_P04012015B13_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 02:17:35 EST 2015
+./BLPREP_P04012015B15_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015B15_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 15) has started
+./BLPREP_P04012015B15_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 15) has started
+./BLPREP_P04012015B15_CAN_20150129_220101.log:***  30068 BANs                    read . 
+./BLPREP_P04012015B15_CAN_20150129_220101.log:***  215 BANs                    rejected . 
+./BLPREP_P04012015B15_CAN_20150129_220101.log:***  29853 BANs                    succeeded . 
+./BLPREP_P04012015B15_CAN_20150129_220101.log:***  16834 CTNs                    succeeded . 
+./BLPREP_P04012015B15_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 15) has successfully completed
+./BLPREP_P04012015B15_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 01:55:36 EST 2015
+./BLPREP_P04012015B14_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015B14_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 14) has started
+./BLPREP_P04012015B14_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 14) has started
+./BLPREP_P04012015B14_CAN_20150129_220101.log:***  27559 BANs                    read . 
+./BLPREP_P04012015B14_CAN_20150129_220101.log:***  214 BANs                    rejected . 
+./BLPREP_P04012015B14_CAN_20150129_220101.log:***  27345 BANs                    succeeded . 
+./BLPREP_P04012015B14_CAN_20150129_220101.log:***  15281 CTNs                    succeeded . 
+./BLPREP_P04012015B14_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 14) has successfully completed
+./BLPREP_P04012015B14_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 01:52:33 EST 2015
+./BLPREP_P04012015B12_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015B12_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 12) has started
+./BLPREP_P04012015B12_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 12) has started
+./BLPREP_P04012015B12_CAN_20150129_220101.log:***  32092 BANs                    read . 
+./BLPREP_P04012015B12_CAN_20150129_220101.log:***  214 BANs                    rejected . 
+./BLPREP_P04012015B12_CAN_20150129_220101.log:***  31878 BANs                    succeeded . 
+./BLPREP_P04012015B12_CAN_20150129_220101.log:***  17553 CTNs                    succeeded . 
+./BLPREP_P04012015B12_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 12) has successfully completed
+./BLPREP_P04012015B12_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 02:12:30 EST 2015
+./BLPREP_P04012015B10_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015B10_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 10) has started
+./BLPREP_P04012015B10_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 10) has started
+./BLPREP_P04012015B10_CAN_20150129_220101.log:***  27548 BANs                    read . 
+./BLPREP_P04012015B10_CAN_20150129_220101.log:***  169 BANs                    rejected . 
+./BLPREP_P04012015B10_CAN_20150129_220101.log:***  27379 BANs                    succeeded . 
+./BLPREP_P04012015B10_CAN_20150129_220101.log:***  16834 CTNs                    succeeded . 
+./BLPREP_P04012015B10_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 10) has successfully completed
+./BLPREP_P04012015B10_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 01:13:49 EST 2015
+./BLPREP_P04012015A09_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015A09_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 09) has started
+./BLPREP_P04012015A09_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 09) has started
+./BLPREP_P04012015A09_CAN_20150129_220101.log:***  1055 BANs                    read . 
+./BLPREP_P04012015A09_CAN_20150129_220101.log:***  77 BANs                    rejected . 
+./BLPREP_P04012015A09_CAN_20150129_220101.log:***  937 BANs                    succeeded . 
+./BLPREP_P04012015A09_CAN_20150129_220101.log:***  1440 CTNs                    succeeded . 
+./BLPREP_P04012015A09_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 09) has successfully completed
+./BLPREP_P04012015A09_CAN_20150129_220101.log:*  Operational Job ended successfuly on Thu Jan 29 22:30:49 EST 2015
+./BLPREP_P04012015A12_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015A12_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 12) has started
+./BLPREP_P04012015A12_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 12) has started
+./BLPREP_P04012015A12_CAN_20150129_220101.log:***  619 BANs                    read . 
+./BLPREP_P04012015A12_CAN_20150129_220101.log:***  50 BANs                    rejected . 
+./BLPREP_P04012015A12_CAN_20150129_220101.log:***  533 BANs                    succeeded . 
+./BLPREP_P04012015A12_CAN_20150129_220101.log:***  1293 CTNs                    succeeded . 
+./BLPREP_P04012015A12_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 12) has successfully completed
+./BLPREP_P04012015A12_CAN_20150129_220101.log:*  Operational Job ended successfuly on Thu Jan 29 22:27:10 EST 2015
+./BLPREP_P04012015B19_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015B19_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 19) has started
+./BLPREP_P04012015B19_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 19) has started
+./BLPREP_P04012015B19_CAN_20150129_220101.log:***  19238 BANs                    read . 
+./BLPREP_P04012015B19_CAN_20150129_220101.log:***  157 BANs                    rejected . 
+./BLPREP_P04012015B19_CAN_20150129_220101.log:***  18924 BANs                    succeeded . 
+./BLPREP_P04012015B19_CAN_20150129_220101.log:***  13016 CTNs                    succeeded . 
+./BLPREP_P04012015B19_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 19) has successfully completed
+./BLPREP_P04012015B19_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 01:49:33 EST 2015
+./BLPREP_P04012015B11_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015B11_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 11) has started
+./BLPREP_P04012015B11_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 11) has started
+./BLPREP_P04012015B11_CAN_20150129_220101.log:***  29850 BANs                    read . 
+./BLPREP_P04012015B11_CAN_20150129_220101.log:***  201 BANs                    rejected . 
+./BLPREP_P04012015B11_CAN_20150129_220101.log:***  29649 BANs                    succeeded . 
+./BLPREP_P04012015B11_CAN_20150129_220101.log:***  17367 CTNs                    succeeded . 
+./BLPREP_P04012015B11_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 11) has successfully completed
+./BLPREP_P04012015B11_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 01:36:15 EST 2015
+./BLPREP_P04012015B16_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015B16_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 16) has started
+./BLPREP_P04012015B16_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 16) has started
+./BLPREP_P04012015B16_CAN_20150129_220101.log:***  29180 BANs                    read . 
+./BLPREP_P04012015B16_CAN_20150129_220101.log:***  222 BANs                    rejected . 
+./BLPREP_P04012015B16_CAN_20150129_220101.log:***  28958 BANs                    succeeded . 
+./BLPREP_P04012015B16_CAN_20150129_220101.log:***  16318 CTNs                    succeeded . 
+./BLPREP_P04012015B16_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 16) has successfully completed
+./BLPREP_P04012015B16_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 01:58:31 EST 2015
+./BLPREP_P04012015B18_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015B18_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 18) has started
+./BLPREP_P04012015B18_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 18) has started
+./BLPREP_P04012015B18_CAN_20150129_220101.log:***  28569 BANs                    read . 
+./BLPREP_P04012015B18_CAN_20150129_220101.log:***  197 BANs                    rejected . 
+./BLPREP_P04012015B18_CAN_20150129_220101.log:***  28372 BANs                    succeeded . 
+./BLPREP_P04012015B18_CAN_20150129_220101.log:***  16507 CTNs                    succeeded . 
+./BLPREP_P04012015B18_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 18) has successfully completed
+./BLPREP_P04012015B18_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 04:08:42 EST 2015
+./BLPREP_P04012015A13_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:01 EST 2015
+./BLPREP_P04012015A13_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 13) has started
+./BLPREP_P04012015A13_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 13) has started
+./BLPREP_P04012015A13_CAN_20150129_220101.log:***  836 BANs                    read . 
+./BLPREP_P04012015A13_CAN_20150129_220101.log:***  70 BANs                    rejected . 
+./BLPREP_P04012015A13_CAN_20150129_220101.log:***  723 BANs                    succeeded . 
+./BLPREP_P04012015A13_CAN_20150129_220101.log:***  1225 CTNs                    succeeded . 
+./BLPREP_P04012015A13_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 13) has successfully completed
+./BLPREP_P04012015A13_CAN_20150129_220101.log:*  Operational Job ended successfuly on Thu Jan 29 22:33:25 EST 2015
+./BLPREP_P04012015A11_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A11_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 11) has started
+./BLPREP_P04012015A11_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 11) has started
+./BLPREP_P04012015A11_CAN_20150129_220101.log:***  885 BANs                    read . 
+./BLPREP_P04012015A11_CAN_20150129_220101.log:***  70 BANs                    rejected . 
+./BLPREP_P04012015A11_CAN_20150129_220101.log:***  776 BANs                    succeeded . 
+./BLPREP_P04012015A11_CAN_20150129_220101.log:***  1907 CTNs                    succeeded . 
+./BLPREP_P04012015A11_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 11) has successfully completed
+./BLPREP_P04012015A11_CAN_20150129_220101.log:*  Operational Job ended successfuly on Thu Jan 29 22:34:50 EST 2015
+./BLPREP_P04012015A20_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A20_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 20) has started
+./BLPREP_P04012015A20_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 20) has started
+./BLPREP_P04012015A20_CAN_20150129_220101.log:***  325 BANs                    read . 
+./BLPREP_P04012015A20_CAN_20150129_220101.log:***  51 BANs                    rejected . 
+./BLPREP_P04012015A20_CAN_20150129_220101.log:***  259 BANs                    succeeded . 
+./BLPREP_P04012015A20_CAN_20150129_220101.log:***  607 CTNs                    succeeded . 
+./BLPREP_P04012015A20_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 20) has successfully completed
+./BLPREP_P04012015A20_CAN_20150129_220101.log:*  Operational Job ended successfuly on Thu Jan 29 22:18:25 EST 2015
+./BLPREP_P04012015B17_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015B17_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 17) has started
+./BLPREP_P04012015B17_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 17) has started
+./BLPREP_P04012015B17_CAN_20150129_220101.log:***  20933 BANs                    read . 
+./BLPREP_P04012015B17_CAN_20150129_220101.log:***  226 BANs                    rejected . 
+./BLPREP_P04012015B17_CAN_20150129_220101.log:***  20707 BANs                    succeeded . 
+./BLPREP_P04012015B17_CAN_20150129_220101.log:***  15258 CTNs                    succeeded . 
+./BLPREP_P04012015B17_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 17) has successfully completed
+./BLPREP_P04012015B17_CAN_20150129_220101.log:*  Operational Job ended successfuly on Fri Jan 30 03:05:30 EST 2015
+./BLPREP_P04012015A15_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A15_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 15) has started
+./BLPREP_P04012015A15_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 15) has started
+./BLPREP_P04012015A15_CAN_20150129_220101.log:***  690 BANs                    read . 
+./BLPREP_P04012015A15_CAN_20150129_220101.log:***  89 BANs                    rejected . 
+./BLPREP_P04012015A15_CAN_20150129_220101.log:***  555 BANs                    succeeded . 
+./BLPREP_P04012015A15_CAN_20150129_220101.log:***  2068 CTNs                    succeeded . 
+./BLPREP_P04012015A15_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 15) has successfully completed
+./BLPREP_P04012015A15_CAN_20150129_220101.log:*  Operational Job ended successfuly on Thu Jan 29 22:32:44 EST 2015
+./BLPREP_P04012015A10_CAN_20150129_220101.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A10_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 10) has started
+./BLPREP_P04012015A10_CAN_20150129_220101.log:   Program BILL PREPARATION (group no. 10) has started
+./BLPREP_P04012015A10_CAN_20150129_220101.log:***  1644 BANs                    read . 
+./BLPREP_P04012015A10_CAN_20150129_220101.log:***  66 BANs                    rejected . 
+./BLPREP_P04012015A10_CAN_20150129_220101.log:***  1537 BANs                    succeeded . 
+./BLPREP_P04012015A10_CAN_20150129_220101.log:***  1908 CTNs                    succeeded . 
+./BLPREP_P04012015A10_CAN_20150129_220101.log:*** Program BILL PREPARATION (group no. 10) has successfully completed
+./BLPREP_P04012015A10_CAN_20150129_220101.log:*  Operational Job ended successfuly on Thu Jan 29 22:42:57 EST 2015
+./BLPREP_P04012015B20_CAN_20150129_220102.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015B20_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 20) has started
+./BLPREP_P04012015B20_CAN_20150129_220102.log:   Program BILL PREPARATION (group no. 20) has started
+./BLPREP_P04012015B20_CAN_20150129_220102.log:***  7350 BANs                    read . 
+./BLPREP_P04012015B20_CAN_20150129_220102.log:***  98 BANs                    rejected . 
+./BLPREP_P04012015B20_CAN_20150129_220102.log:***  7252 BANs                    succeeded . 
+./BLPREP_P04012015B20_CAN_20150129_220102.log:***  8218 CTNs                    succeeded . 
+./BLPREP_P04012015B20_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 20) has successfully completed
+./BLPREP_P04012015B20_CAN_20150129_220102.log:*  Operational Job ended successfuly on Thu Jan 29 23:59:09 EST 2015
+./BLPREP_P04012015A16_CAN_20150129_220102.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A16_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 16) has started
+./BLPREP_P04012015A16_CAN_20150129_220102.log:   Program BILL PREPARATION (group no. 16) has started
+./BLPREP_P04012015A16_CAN_20150129_220102.log:***  700 BANs                    read . 
+./BLPREP_P04012015A16_CAN_20150129_220102.log:***  81 BANs                    rejected . 
+./BLPREP_P04012015A16_CAN_20150129_220102.log:***  571 BANs                    succeeded . 
+./BLPREP_P04012015A16_CAN_20150129_220102.log:***  1103 CTNs                    succeeded . 
+./BLPREP_P04012015A16_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 16) has successfully completed
+./BLPREP_P04012015A16_CAN_20150129_220102.log:*  Operational Job ended successfuly on Thu Jan 29 22:30:04 EST 2015
+./BLPREP_P04012015A08_CAN_20150129_220102.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A08_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 08) has started
+./BLPREP_P04012015A08_CAN_20150129_220102.log:   Program BILL PREPARATION (group no. 08) has started
+./BLPREP_P04012015A08_CAN_20150129_220102.log:***  611 BANs                    read . 
+./BLPREP_P04012015A08_CAN_20150129_220102.log:***  49 BANs                    rejected . 
+./BLPREP_P04012015A08_CAN_20150129_220102.log:***  516 BANs                    succeeded . 
+./BLPREP_P04012015A08_CAN_20150129_220102.log:***  6248 CTNs                    succeeded . 
+./BLPREP_P04012015A08_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 08) has successfully completed
+./BLPREP_P04012015A08_CAN_20150129_220102.log:*  Operational Job ended successfuly on Thu Jan 29 22:32:35 EST 2015
+./BLPREP_P04012015A07_CAN_20150129_220102.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A07_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 07) has started
+./BLPREP_P04012015A07_CAN_20150129_220102.log:   Program BILL PREPARATION (group no. 07) has started
+./BLPREP_P04012015A07_CAN_20150129_220102.log:***  535 BANs                    read . 
+./BLPREP_P04012015A07_CAN_20150129_220102.log:***  44 BANs                    rejected . 
+./BLPREP_P04012015A07_CAN_20150129_220102.log:***  445 BANs                    succeeded . 
+./BLPREP_P04012015A07_CAN_20150129_220102.log:***  698 CTNs                    succeeded . 
+./BLPREP_P04012015A07_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 07) has successfully completed
+./BLPREP_P04012015A07_CAN_20150129_220102.log:*  Operational Job ended successfuly on Thu Jan 29 22:14:17 EST 2015
+./BLPREP_P04012015A17_CAN_20150129_220102.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A17_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 17) has started
+./BLPREP_P04012015A17_CAN_20150129_220102.log:   Program BILL PREPARATION (group no. 17) has started
+./BLPREP_P04012015A17_CAN_20150129_220102.log:***  472 BANs                    read . 
+./BLPREP_P04012015A17_CAN_20150129_220102.log:***  97 BANs                    rejected . 
+./BLPREP_P04012015A17_CAN_20150129_220102.log:***  329 BANs                    succeeded . 
+./BLPREP_P04012015A17_CAN_20150129_220102.log:***  755 CTNs                    succeeded . 
+./BLPREP_P04012015A17_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 17) has successfully completed
+./BLPREP_P04012015A17_CAN_20150129_220102.log:*  Operational Job ended successfuly on Thu Jan 29 22:27:07 EST 2015
+./BLPREP_P04012015A18_CAN_20150129_220102.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A18_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 18) has started
+./BLPREP_P04012015A18_CAN_20150129_220102.log:   Program BILL PREPARATION (group no. 18) has started
+./BLPREP_P04012015A18_CAN_20150129_220102.log:***  1566 BANs                    read . 
+./BLPREP_P04012015A18_CAN_20150129_220102.log:***  145 BANs                    rejected . 
+./BLPREP_P04012015A18_CAN_20150129_220102.log:***  795 BANs                    succeeded . 
+./BLPREP_P04012015A18_CAN_20150129_220102.log:***  1773 CTNs                    succeeded . 
+./BLPREP_P04012015A18_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 18) has successfully completed
+./BLPREP_P04012015A18_CAN_20150129_220102.log:*  Operational Job ended successfuly on Thu Jan 29 22:56:25 EST 2015
+./BLPREP_P04012015A14_CAN_20150129_220102.log:*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+./BLPREP_P04012015A14_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 14) has started
+./BLPREP_P04012015A14_CAN_20150129_220102.log:   Program BILL PREPARATION (group no. 14) has started
+./BLPREP_P04012015A14_CAN_20150129_220102.log:***  572 BANs                    read . 
+./BLPREP_P04012015A14_CAN_20150129_220102.log:***  65 BANs                    rejected . 
+./BLPREP_P04012015A14_CAN_20150129_220102.log:***  463 BANs                    succeeded . 
+./BLPREP_P04012015A14_CAN_20150129_220102.log:***  1702 CTNs                    succeeded . 
+./BLPREP_P04012015A14_CAN_20150129_220102.log:*** Program BILL PREPARATION (group no. 14) has successfully completed
+./BLPREP_P04012015A14_CAN_20150129_220102.log:*  Operational Job ended successfuly on Thu Jan 29 22:28:10 EST 2015
+*  Operational Script Job Activation, on Thu Jan 29 22:01:02 EST 2015
+*** Program BILL PREPARATION (group no. 19) has started
+   Program BILL PREPARATION (group no. 19) has started
+***  4118 BANs                    read . 
+***  129 BANs                    rejected . 
+***  2563 BANs                    succeeded . 
+***  4964 CTNs                    succeeded . 
+*** Program BILL PREPARATION (group no. 19) has successfully completed
+*  Operational Job ended successfuly on Fri Jan 30 00:07:28 EST 2015

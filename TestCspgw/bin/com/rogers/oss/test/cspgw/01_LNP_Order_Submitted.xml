@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LocalServiceOrder SYSTEM "AllstreamLSO.dtd">
+<LocalServiceOrder action="Install">
+	<Header>
+		<RequestDateTimeUTC>2012-07-24T16:38:28Z</RequestDateTimeUTC>
+	</Header>
+	<OrderInfo>
+	         
+		<DesiredDueDate>2012-11-21</DesiredDueDate>
+		<ResellerPartnerBPID>999999</ResellerPartnerBPID>
+		<ExternalOrderRefNo version="1">TEST555</ExternalOrderRefNo>
+		<ExternalEndUserAccountNumber>239153531002</ExternalEndUserAccountNumber>
+		<LocalServiceProvider LOASignDate="2008-09-18" listingInd="2" publishInd="4">743B</LocalServiceProvider>
+		<LongDistanceServiceProvider LOASignDate="2012-07-24" authType="2">1724</LongDistanceServiceProvider>
+		<ContactInfo role="EndUser" language="EN">
+		<Individual daytimePhone="4162219753" daytimePhoneExt="" eveningPhone="4162219753" eveningPhoneExt="">
+		<FamilyName>UCHIDA</FamilyName>
+		<GivenName>YUIKI</GivenName>
+		</Individual>
+		<Organization>
+		<PrimaryCommercialName></PrimaryCommercialName>
+		</Organization>
+		</ContactInfo>
+		<ContactInfo role="BillingInfo" language="EN">
+			<Individual daytimePhone="4162219753" daytimePhoneExt="" eveningPhone="4162219753" eveningPhoneExt="">
+		<FamilyName>UCHIDA</FamilyName>
+		<GivenName>YUIKI</GivenName>
+		</Individual>
+			<Organization>
+				<PrimaryCommercialName/>
+			</Organization>
+		</ContactInfo>
+	<Address role="Site">
+		<BuildingName></BuildingName>
+		<SuiteUnitNumber type="">636</SuiteUnitNumber>
+		<Floor></Floor>
+		<Street  typePlacement="Post" abbrevType="CL" abbrevDirection="">
+		<Number suffix="">25</Number>
+		<Name prefix="" suffix="">BAMBURGH</Name>
+		</Street>
+		<CityName>SCARBOROUGH</CityName>
+		<ProvinceState abbrevName="ON" />
+		<PostalCode>M1W 3W2</PostalCode>
+		<Country></Country>
+	</Address>
+	<Address role="Billing">
+		<BuildingName></BuildingName>
+		<SuiteUnitNumber  type="">636</SuiteUnitNumber>
+		<Floor></Floor>
+		<Street  typePlacement="Post" abbrevType="CL"  abbrevDirection="">
+		<Number suffix="">25</Number>
+		<Name prefix="" suffix="">BAMBURGH</Name>
+		</Street>
+		<CityName>SCARBOROUGH</CityName>
+		<ProvinceState 		abbrevName ="ON"/>
+		<PostalCode>M1W 3W2</PostalCode>
+		<Country></Country>
+</Address>
+ 
+		<Remarks></Remarks>
+</OrderInfo>
+	<OrderItem productCode="VOIP"   >
+
+	<ProductParameters>
+                        <Parameter name="LRN">4169010001</Parameter>
+         </ProductParameters>
+		<TelephoneNumberInfo>
+			<TelephoneNumber role="Primary" type="Phone" lnp="Y" residential="Y"   >
+			<NPA>416</NPA>
+			<NXX>221</NXX>
+			<Number>9741</Number>
+			</TelephoneNumber>
+			 
+			<ILEC>
+				<ContactInfo role="ILECBilling" >
+					<Individual>
+						<FamilyName>Uchida</FamilyName>
+						<GivenName>Y</GivenName>
+					</Individual>
+				</ContactInfo>
+				<Address role="ILECSite">
+				<BuildingName></BuildingName>
+				<SuiteUnitNumber >636</SuiteUnitNumber>
+				<Floor></Floor>
+			<Street abbrevType="CL" abbrevDirection="">
+				<Number suffix="">25</Number>
+			  <Name prefix="" suffix="">BAMBURGH</Name>
+			  		</Street>
+			<CityName>SCARBOROUGH</CityName>
+
+			<ProvinceState abbrevName="ON"/>
+			<PostalCode>M1W 3W2</PostalCode>
+			<Country></Country>
+				</Address>
+			<CurrentLSP code= "8377" />
+			<CurrentLDP code= "1724" />
+                        <TelephoneNumber role="ILECBilling">
+                                        <NPA/>
+                                        <NXX/>
+                                        <Number/>
+                        </TelephoneNumber>
+		         
+			<Reseller></Reseller>
+			<Eumi>N</Eumi>
+			<DslExists treatment="N">N</DslExists>
+			<IlecPassword></IlecPassword>
+			</ILEC>
+		</TelephoneNumberInfo>
+		
+		
+	</OrderItem>
+</LocalServiceOrder>

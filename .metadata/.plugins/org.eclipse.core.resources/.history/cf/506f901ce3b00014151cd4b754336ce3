@@ -1,0 +1,11 @@
+package cb.springdemo;
+
+import static cb.printscreen.PSLog.*;
+
+public class Triangle {
+
+	public void draw() {
+		ps("Drawing a Triangle");
+	}
+
+}

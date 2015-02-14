@@ -1,0 +1,10 @@
+package cb.springdemo;
+
+import org.springframework.beans.factory.BeanFactory;
+
+public class DrawingApp {
+	public static void main(String[] args) {
+		//new Triangle().draw();
+		BeanFactory bean = XmlBeanFactory(new FileSystemResource("spring.xml"));
+	}
+}

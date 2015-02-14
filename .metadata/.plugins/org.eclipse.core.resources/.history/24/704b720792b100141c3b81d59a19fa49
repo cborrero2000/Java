@@ -1,0 +1,24 @@
+package cb.springdemo;
+
+import static cb.printscreen.PSLog.*;
+
+public class Triangle {
+
+	String type;
+	
+	
+	public String getType() {
+		return type;
+	}
+
+
+	public void setType(String type) {
+		this.type = type;
+	}
+
+
+	public void draw() {
+		ps(getType() + " Triangle Drawn");
+	}
+
+}

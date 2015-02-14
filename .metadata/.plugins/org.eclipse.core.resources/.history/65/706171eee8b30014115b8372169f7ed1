@@ -1,0 +1,23 @@
+package cb.springdemo;
+
+import static cb.printscreen.PSLog.*;
+
+import java.util.List;
+
+public class Triangle {
+	
+	List<Point> points;
+
+	
+
+	public void draw() {
+		
+		for (Point point : points) {
+			ps("Point  = (" + points.getX() + "," + points.getY() + ")");
+		}
+		
+		ps("Point A = (" + pointA.getX() + "," + pointA.getY() + ")");
+		ps("Point B = (" + pointB.getX() + "," + pointB.getY() + ")");
+		ps("Point C = (" + pointC.getX() + "," + pointC.getY() + ")");
+	}
+}

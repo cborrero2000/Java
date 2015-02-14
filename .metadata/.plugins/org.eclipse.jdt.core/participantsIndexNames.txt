@@ -1,0 +1,9 @@
+INDEX VERSION 1.126
+C:\Users\carlos\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1038225829.index
+\basicstruts\src\main\java
+C:\Users\carlos\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\660454218.index
+\restful-server-example\src\main\java
+C:\Users\carlos\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\796449526.index
+\intro\src
+C:\Users\carlos\workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\788325146.index
+\basicstruts\src\main\java

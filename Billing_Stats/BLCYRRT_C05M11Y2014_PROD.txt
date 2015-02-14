@@ -1,0 +1,160 @@
+./BLCYRRT_B05112014A04_CAN_20141110_020204.log:*  Operational Script Job Activation, on Mon Nov 10 02:02:04 EST 2014
+./BLCYRRT_B05112014A04_CAN_20141110_020204.log:*** Program RERATING (group no. 04) has started
+./BLCYRRT_B05112014A04_CAN_20141110_020204.log:   Program RERATING (group no. 04) has started
+./BLCYRRT_B05112014A04_CAN_20141110_020204.log:***  333 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A04_CAN_20141110_020204.log:***  0 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A04_CAN_20141110_020204.log:***  546 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A04_CAN_20141110_020204.log:*** Program RERATING (group no. 04) has successfully completed
+./BLCYRRT_B05112014A04_CAN_20141110_020204.log:*  Operational Job ended successfuly on Mon Nov 10 22:01:06 EST 2014
+./BLCYRRT_B05112014A06_CAN_20141110_020205.log:*  Operational Script Job Activation, on Mon Nov 10 02:02:05 EST 2014
+./BLCYRRT_B05112014A06_CAN_20141110_020205.log:*** Program RERATING (group no. 06) has started
+./BLCYRRT_B05112014A06_CAN_20141110_020205.log:   Program RERATING (group no. 06) has started
+./BLCYRRT_B05112014A06_CAN_20141110_020205.log:***  315 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A06_CAN_20141110_020205.log:***  0 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A06_CAN_20141110_020205.log:***  383 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A06_CAN_20141110_020205.log:*** Program RERATING (group no. 06) has successfully completed
+./BLCYRRT_B05112014A06_CAN_20141110_020205.log:*  Operational Job ended successfuly on Tue Nov 11 00:06:58 EST 2014
+./BLCYRRT_B05112014A05_CAN_20141110_020205.log:*  Operational Script Job Activation, on Mon Nov 10 02:02:05 EST 2014
+./BLCYRRT_B05112014A05_CAN_20141110_020205.log:*** Program RERATING (group no. 05) has started
+./BLCYRRT_B05112014A05_CAN_20141110_020205.log:   Program RERATING (group no. 05) has started
+./BLCYRRT_B05112014A05_CAN_20141110_020205.log:***  294 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A05_CAN_20141110_020205.log:***  0 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A05_CAN_20141110_020205.log:***  392 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A05_CAN_20141110_020205.log:*** Program RERATING (group no. 05) has successfully completed
+./BLCYRRT_B05112014A05_CAN_20141110_020205.log:*  Operational Job ended successfuly on Mon Nov 10 21:12:47 EST 2014
+./BLCYRRT_B05112014A07_CAN_20141110_020205.log:*  Operational Script Job Activation, on Mon Nov 10 02:02:05 EST 2014
+./BLCYRRT_B05112014A07_CAN_20141110_020205.log:*** Program RERATING (group no. 07) has started
+./BLCYRRT_B05112014A07_CAN_20141110_020205.log:   Program RERATING (group no. 07) has started
+./BLCYRRT_B05112014A07_CAN_20141110_020205.log:***  401 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A07_CAN_20141110_020205.log:***  0 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A07_CAN_20141110_020205.log:***  642 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A07_CAN_20141110_020205.log:*** Program RERATING (group no. 07) has successfully completed
+./BLCYRRT_B05112014A07_CAN_20141110_020205.log:*  Operational Job ended successfuly on Tue Nov 11 00:05:18 EST 2014
+./BLCYRRT_B05112014A20_CAN_20141110_020206.log:*  Operational Script Job Activation, on Mon Nov 10 02:02:06 EST 2014
+./BLCYRRT_B05112014A20_CAN_20141110_020206.log:*** Program RERATING (group no. 20) has started
+./BLCYRRT_B05112014A20_CAN_20141110_020206.log:   Program RERATING (group no. 20) has started
+./BLCYRRT_B05112014A20_CAN_20141110_020206.log:***  310 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A20_CAN_20141110_020206.log:***  9 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A20_CAN_20141110_020206.log:***  151 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A20_CAN_20141110_020206.log:*** Program RERATING (group no. 20) has successfully completed
+./BLCYRRT_B05112014A20_CAN_20141110_020206.log:*  Operational Job ended successfuly on Mon Nov 10 19:16:30 EST 2014
+./BLCYRRT_B05112014A08_CAN_20141110_020206.log:*  Operational Script Job Activation, on Mon Nov 10 02:02:06 EST 2014
+./BLCYRRT_B05112014A08_CAN_20141110_020206.log:*** Program RERATING (group no. 08) has started
+./BLCYRRT_B05112014A08_CAN_20141110_020206.log:   Program RERATING (group no. 08) has started
+./BLCYRRT_B05112014A08_CAN_20141110_020206.log:***  427 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A08_CAN_20141110_020206.log:***  0 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A08_CAN_20141110_020206.log:***  660 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A08_CAN_20141110_020206.log:*** Program RERATING (group no. 08) has successfully completed
+./BLCYRRT_B05112014A08_CAN_20141110_020206.log:*  Operational Job ended successfuly on Tue Nov 11 00:11:20 EST 2014
+./BLCYRRT_B05112014A17_CAN_20141110_020206.log:*  Operational Script Job Activation, on Mon Nov 10 02:02:06 EST 2014
+./BLCYRRT_B05112014A17_CAN_20141110_020206.log:*** Program RERATING (group no. 17) has started
+./BLCYRRT_B05112014A17_CAN_20141110_020206.log:   Program RERATING (group no. 17) has started
+./BLCYRRT_B05112014A17_CAN_20141110_020206.log:***  327 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A17_CAN_20141110_020206.log:***  17 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A17_CAN_20141110_020206.log:***  340 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A17_CAN_20141110_020206.log:*** Program RERATING (group no. 17) has successfully completed
+./BLCYRRT_B05112014A17_CAN_20141110_020206.log:*  Operational Job ended successfuly on Mon Nov 10 19:52:01 EST 2014
+./BLCYRRT_B05112014A16_CAN_20141110_020206.log:*  Operational Script Job Activation, on Mon Nov 10 02:02:06 EST 2014
+./BLCYRRT_B05112014A16_CAN_20141110_020206.log:*** Program RERATING (group no. 16) has started
+./BLCYRRT_B05112014A16_CAN_20141110_020206.log:   Program RERATING (group no. 16) has started
+./BLCYRRT_B05112014A16_CAN_20141110_020206.log:***  87 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A16_CAN_20141110_020206.log:***  3 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A16_CAN_20141110_020206.log:***  47 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A16_CAN_20141110_020206.log:*** Program RERATING (group no. 16) has successfully completed
+./BLCYRRT_B05112014A16_CAN_20141110_020206.log:*  Operational Job ended successfuly on Mon Nov 10 13:56:15 EST 2014
+./BLCYRRT_B05112014A09_CAN_20141110_020401.log:*  Operational Script Job Activation, on Mon Nov 10 02:04:01 EST 2014
+./BLCYRRT_B05112014A09_CAN_20141110_020401.log:*** Program RERATING (group no. 09) has started
+./BLCYRRT_B05112014A09_CAN_20141110_020401.log:   Program RERATING (group no. 09) has started
+./BLCYRRT_B05112014A09_CAN_20141110_020401.log:***  451 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A09_CAN_20141110_020401.log:***  2 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A09_CAN_20141110_020401.log:***  618 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A09_CAN_20141110_020401.log:*** Program RERATING (group no. 09) has successfully completed
+./BLCYRRT_B05112014A09_CAN_20141110_020401.log:*  Operational Job ended successfuly on Tue Nov 11 00:00:46 EST 2014
+./BLCYRRT_B05112014A18_CAN_20141110_020557.log:*  Operational Script Job Activation, on Mon Nov 10 02:05:57 EST 2014
+./BLCYRRT_B05112014A18_CAN_20141110_020557.log:*** Program RERATING (group no. 18) has started
+./BLCYRRT_B05112014A18_CAN_20141110_020557.log:   Program RERATING (group no. 18) has started
+./BLCYRRT_B05112014A18_CAN_20141110_020557.log:***  416 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A18_CAN_20141110_020557.log:***  8 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A18_CAN_20141110_020557.log:***  381 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A18_CAN_20141110_020557.log:*** Program RERATING (group no. 18) has successfully completed
+./BLCYRRT_B05112014A18_CAN_20141110_020557.log:*  Operational Job ended successfuly on Mon Nov 10 23:34:22 EST 2014
+./BLCYRRT_B05112014A10_CAN_20141110_020619.log:*  Operational Script Job Activation, on Mon Nov 10 02:06:19 EST 2014
+./BLCYRRT_B05112014A10_CAN_20141110_020619.log:*** Program RERATING (group no. 10) has started
+./BLCYRRT_B05112014A10_CAN_20141110_020619.log:   Program RERATING (group no. 10) has started
+./BLCYRRT_B05112014A10_CAN_20141110_020619.log:***  393 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A10_CAN_20141110_020619.log:***  3 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A10_CAN_20141110_020619.log:***  362 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A10_CAN_20141110_020619.log:*** Program RERATING (group no. 10) has successfully completed
+./BLCYRRT_B05112014A10_CAN_20141110_020619.log:*  Operational Job ended successfuly on Mon Nov 10 23:10:26 EST 2014
+./BLCYRRT_B05112014A03_CAN_20141110_020640.log:*  Operational Script Job Activation, on Mon Nov 10 02:06:40 EST 2014
+./BLCYRRT_B05112014A03_CAN_20141110_020640.log:*** Program RERATING (group no. 03) has started
+./BLCYRRT_B05112014A03_CAN_20141110_020640.log:   Program RERATING (group no. 03) has started
+./BLCYRRT_B05112014A03_CAN_20141110_020640.log:***  524 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A03_CAN_20141110_020640.log:***  0 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A03_CAN_20141110_020640.log:***  1896 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A03_CAN_20141110_020640.log:*** Program RERATING (group no. 03) has successfully completed
+./BLCYRRT_B05112014A03_CAN_20141110_020640.log:*  Operational Job ended successfuly on Mon Nov 10 17:40:24 EST 2014
+./BLCYRRT_B05112014A11_CAN_20141110_020724.log:*  Operational Script Job Activation, on Mon Nov 10 02:07:24 EST 2014
+./BLCYRRT_B05112014A11_CAN_20141110_020724.log:*** Program RERATING (group no. 11) has started
+./BLCYRRT_B05112014A11_CAN_20141110_020724.log:   Program RERATING (group no. 11) has started
+./BLCYRRT_B05112014A11_CAN_20141110_020724.log:***  274 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A11_CAN_20141110_020724.log:***  6 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A11_CAN_20141110_020724.log:***  226 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A11_CAN_20141110_020724.log:*** Program RERATING (group no. 11) has successfully completed
+./BLCYRRT_B05112014A11_CAN_20141110_020724.log:*  Operational Job ended successfuly on Mon Nov 10 19:02:56 EST 2014
+./BLCYRRT_B05112014A12_CAN_20141110_020746.log:*  Operational Script Job Activation, on Mon Nov 10 02:07:46 EST 2014
+./BLCYRRT_B05112014A12_CAN_20141110_020746.log:*** Program RERATING (group no. 12) has started
+./BLCYRRT_B05112014A12_CAN_20141110_020746.log:   Program RERATING (group no. 12) has started
+./BLCYRRT_B05112014A12_CAN_20141110_020746.log:***  408 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A12_CAN_20141110_020746.log:***  5 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A12_CAN_20141110_020746.log:***  355 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A12_CAN_20141110_020746.log:*** Program RERATING (group no. 12) has successfully completed
+./BLCYRRT_B05112014A12_CAN_20141110_020746.log:*  Operational Job ended successfuly on Tue Nov 11 00:05:59 EST 2014
+./BLCYRRT_B05112014A15_CAN_20141110_020849.log:*  Operational Script Job Activation, on Mon Nov 10 02:08:50 EST 2014
+./BLCYRRT_B05112014A15_CAN_20141110_020849.log:*** Program RERATING (group no. 15) has started
+./BLCYRRT_B05112014A15_CAN_20141110_020849.log:   Program RERATING (group no. 15) has started
+./BLCYRRT_B05112014A15_CAN_20141110_020849.log:***  376 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A15_CAN_20141110_020849.log:***  8 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A15_CAN_20141110_020849.log:***  397 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A15_CAN_20141110_020849.log:*** Program RERATING (group no. 15) has successfully completed
+./BLCYRRT_B05112014A15_CAN_20141110_020849.log:*  Operational Job ended successfuly on Mon Nov 10 22:50:44 EST 2014
+./BLCYRRT_B05112014A13_CAN_20141110_020932.log:*  Operational Script Job Activation, on Mon Nov 10 02:09:32 EST 2014
+./BLCYRRT_B05112014A13_CAN_20141110_020932.log:*** Program RERATING (group no. 13) has started
+./BLCYRRT_B05112014A13_CAN_20141110_020932.log:   Program RERATING (group no. 13) has started
+./BLCYRRT_B05112014A13_CAN_20141110_020932.log:***  375 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A13_CAN_20141110_020932.log:***  3 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A13_CAN_20141110_020932.log:***  440 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A13_CAN_20141110_020932.log:*** Program RERATING (group no. 13) has successfully completed
+./BLCYRRT_B05112014A13_CAN_20141110_020932.log:*  Operational Job ended successfuly on Tue Nov 11 00:09:00 EST 2014
+./BLCYRRT_B05112014A14_CAN_20141110_020954.log:*  Operational Script Job Activation, on Mon Nov 10 02:09:54 EST 2014
+./BLCYRRT_B05112014A14_CAN_20141110_020954.log:*** Program RERATING (group no. 14) has started
+./BLCYRRT_B05112014A14_CAN_20141110_020954.log:   Program RERATING (group no. 14) has started
+./BLCYRRT_B05112014A14_CAN_20141110_020954.log:***  398 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A14_CAN_20141110_020954.log:***  6 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A14_CAN_20141110_020954.log:***  412 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A14_CAN_20141110_020954.log:*** Program RERATING (group no. 14) has successfully completed
+./BLCYRRT_B05112014A14_CAN_20141110_020954.log:*  Operational Job ended successfuly on Mon Nov 10 23:37:57 EST 2014
+./BLCYRRT_B05112014A02_CAN_20141110_021139.log:*  Operational Script Job Activation, on Mon Nov 10 02:11:39 EST 2014
+./BLCYRRT_B05112014A02_CAN_20141110_021139.log:*** Program RERATING (group no. 02) has started
+./BLCYRRT_B05112014A02_CAN_20141110_021139.log:   Program RERATING (group no. 02) has started
+./BLCYRRT_B05112014A02_CAN_20141110_021139.log:***  2 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A02_CAN_20141110_021139.log:***  0 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A02_CAN_20141110_021139.log:***  2639 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A02_CAN_20141110_021139.log:*** Program RERATING (group no. 02) has successfully completed
+./BLCYRRT_B05112014A02_CAN_20141110_021139.log:*  Operational Job ended successfuly on Mon Nov 10 17:37:49 EST 2014
+./BLCYRRT_B05112014A19_CAN_20141110_021222.log:*  Operational Script Job Activation, on Mon Nov 10 02:12:22 EST 2014
+./BLCYRRT_B05112014A19_CAN_20141110_021222.log:*** Program RERATING (group no. 19) has started
+./BLCYRRT_B05112014A19_CAN_20141110_021222.log:   Program RERATING (group no. 19) has started
+./BLCYRRT_B05112014A19_CAN_20141110_021222.log:***  453 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A19_CAN_20141110_021222.log:***  7 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A19_CAN_20141110_021222.log:***  413 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A19_CAN_20141110_021222.log:*** Program RERATING (group no. 19) has successfully completed
+./BLCYRRT_B05112014A19_CAN_20141110_021222.log:*  Operational Job ended successfuly on Mon Nov 10 22:53:49 EST 2014
+./BLCYRRT_B05112014A01_CAN_20141110_021406.log:*  Operational Script Job Activation, on Mon Nov 10 02:14:06 EST 2014
+./BLCYRRT_B05112014A01_CAN_20141110_021406.log:*** Program RERATING (group no. 01) has started
+./BLCYRRT_B05112014A01_CAN_20141110_021406.log:   Program RERATING (group no. 01) has started
+./BLCYRRT_B05112014A01_CAN_20141110_021406.log:***  1 BAN records             successfully rerated . 
+./BLCYRRT_B05112014A01_CAN_20141110_021406.log:***  0 SIMPLE BAN records      successfully rerated . 
+./BLCYRRT_B05112014A01_CAN_20141110_021406.log:***  2757 CTN records             successfully rerated . 
+./BLCYRRT_B05112014A01_CAN_20141110_021406.log:*** Program RERATING (group no. 01) has successfully completed
+./BLCYRRT_B05112014A01_CAN_20141110_021406.log:*  Operational Job ended successfuly on Mon Nov 10 19:26:39 EST 2014

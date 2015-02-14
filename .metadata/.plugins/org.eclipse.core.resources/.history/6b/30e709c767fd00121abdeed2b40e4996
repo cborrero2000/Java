@@ -1,0 +1,76 @@
+package com.carlos;
+
+import java.io.BufferedOutputStream;
+import java.io.BufferedInputStream;
+import java.io.DataOutputStream;
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.OutputStream;
+import java.io.PipedInputStream;
+import java.io.PipedOutputStream;
+import java.util.Random;
+
+public class InterThreadComm {
+
+	public static void main(String[] args) throws IOException{
+			
+		PipedOutputStream pos = new PipedOutputStream();
+		PipedInputStream pis = new PipedInputStream(pos); // Can be done viceversa, it does not matter
+
+		NumGen ng = new NumGen(pos);
+		RunAvg ra = new RunAvg(pis);
+			
+		ng.start();
+		ra.start();
+	}
+}
+
+class NumGen extends Thread{
+	DataOutputStream dos;
+		
+	public NumGen(OutputStream out){
+		try{
+			dos = new DataOutputStream(new BufferedOutputStream(out));
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+	}
+	
+	public void run(){
+		try{
+			Random ran = new Random(); // import java.util Class here
+			int in;
+			/*for(int i=0; i<1; i++)*/
+			while(true){
+				in = (int)(Math.random()*10+1);
+				System.out.println("in: " + in);
+				dos.writeInt(in);
+				dos.flush();
+			}
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+	}
+}
+
+class RunAvg extends Thread // Reads numbers from NumGet. It requires PipedInputString
+{
+	DataInputStream dis;
+	public RunAvg(InputStream in){
+		dis = new DataInputStream(new BufferedInputStream(in));
+	}
+	
+	public void run(){
+		try{
+			int in=0;
+			/*for(int i=0; i<1; i++)*/
+			while(true){
+				in=dis.readInt();
+				System.out.println("Number:" + in + " Average: " + in);
+			}
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+	}
+}

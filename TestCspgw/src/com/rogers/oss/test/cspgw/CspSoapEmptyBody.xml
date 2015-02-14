@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<SOAP-ENV:Envelope
+	xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SOAP-ENV:Header>
+		<ns2:path
+			xmlns:ns2="http://schemas.xmlsoap.org/rp"
+			SOAP-ENV:actor="http://schemas.xmlsoap.org/soap/actor/next"
+			SOAP-ENV:mustUnderstand="1">
+			<ns2:action>urn:www.allstream.com/ws/b2b/uat</ns2:action>
+			<ns2:id>mid:56e94e6d0339f7a6:6b97fd:10067262466:-8000</ns2:id>
+		</ns2:path>
+		<ns3:Security
+			xmlns:ns3="http://schemas.xmlsoap.org/ws/2002/04/secext"
+			SOAP-ENV:actor="http://schemas.xmlsoap.org/soap/actor/next"
+			SOAP-ENV:mustUnderstand="1">
+			<ns3:UsernameToken>
+				<ns3:Username>sysadmin</ns3:Username>
+				<ns3:Password>sysadmin</ns3:Password>
+			</ns3:UsernameToken>
+		</ns3:Security>
+	</SOAP-ENV:Header>
+	<SOAP-ENV:Body>
+		<ns1:Request xmlns:ns1="http://b2b.webservice.vitria.coe">
+			<in0 soapenc:root="0"  xsi:type="ns4:RequestMsgType" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:ns4="http://b2b.webservice.vitria.coe">
+				<RequestHeader>
+				    <MessageId companyId="926220461" companyName="Rogers Cable Inc." groupId="20012" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/">
+						<SequenceNum companyId="926220461" companyName="Rogers Cable Inc." groupId="20012" groupExpiryTime="2004-09-08 12:12:12" groupMaxIdleDuration="900" last="true" number="9"/>
+					</MessageId>
+					<ExpiryTime xsi:type="xsd:string">No Expiry</ExpiryTime>
+					<ReplyPattern>
+						<Value xsi:type="xsd:string">Callback</Value>
+						<ReplyTo xsi:type="xsd:string">URI</ReplyTo>
+					</ReplyPattern>
+					<AckRequested xsi:type="soapenc:boolean">true</AckRequested>
+					<DuplicateElimination xsi:type="soapenc:boolean">true</DuplicateElimination>
+				</RequestHeader>
+				<RequestBody xsi:type="xsd:string"></RequestBody>
+			</in0>
+		</ns1:Request>
+	</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

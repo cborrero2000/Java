@@ -1,0 +1,79 @@
+package com.carlos;
+
+import java.io.DataOutputStream;
+import java.io.DataInputStream;
+import java.io.IOException;
+import java.io.PipedInputStream;
+import java.io.PipedOutputStream;
+import java.util.Random;
+
+public class InterThreadComm {
+
+	public static void main(String[] args){
+			
+		try{
+			PipedOutputStream pos = new PipedOutputStream();
+			PipedInputStream pis = new PipedInputStream(pos); // Can be done viceversa, it does not matter
+		}catch(IOException e){
+			e.printStackTrace();
+		}
+
+			NumGen ng = new NumGen(pos);
+			RunAvg ra = new RunAvg(pis);
+			
+			ng.start();
+			ra.start();
+	}
+	
+class NumGen extends Thread // Generates local data to be read by RunAvg. It requires PipedOutputString
+{
+
+DataOutputStream dos;
+NumGen(PipedOutputStream p)
+{}
+/*
+try{
+dos = new DataOutputStream(pos);
+}catch(Exception e){}
+}
+public void run()
+{
+try{
+Random ran = new Random();  // import java.util Class here
+double d;
+while(true)
+{
+d =  ran.nextFloat()*10000;
+dos.writeDouble(d);
+dos.flush();
+}
+}catch(Exception e){}
+}*/
+}
+class RunAvg extends Thread // Reads numbers from NumGet. It requires PipedInputString
+{
+
+DataInputStream dis;
+RunAvg(PipedInputStream p)
+{}
+/*
+try{
+dis = new DataInputStream(pis);
+}catch(Exception e){}
+}
+public void run()
+{
+try{
+Random ran = new Random();  // import java.util Class here
+double d;
+while(true)
+{
+d =  ran.nextFloat()*10000;
+dis.writeDouble(d);
+dis.flush();
+}
+}catch(Exception e){}
+}*/
+}
+
+}

@@ -1,0 +1,160 @@
+./BLUNDO_S04012015A08_CAN_20150108_161853.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A08_CAN_20150108_161853.log:***  5 BANs                    read . 
+./BLUNDO_S04012015A08_CAN_20150108_161853.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A08_CAN_20150108_161853.log:***  5 BANs                    succeeded . 
+./BLUNDO_S04012015A08_CAN_20150108_161853.log:***  189 Billing Charges         deleted . 
+./BLUNDO_S04012015A08_CAN_20150108_161853.log:***  2 Billing Credits         deleted . 
+./BLUNDO_S04012015A08_CAN_20150108_161853.log:***  Total amount of  UNDO Credits  $1007.64 . 
+./BLUNDO_S04012015A08_CAN_20150108_161853.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:13 EST 2015
+./BLUNDO_S04012015A06_CAN_20150108_161853.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:53 EST 2015
+./BLUNDO_S04012015A06_CAN_20150108_161853.log:***  6 BANs                    read . 
+./BLUNDO_S04012015A06_CAN_20150108_161853.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A06_CAN_20150108_161853.log:***  6 BANs                    succeeded . 
+./BLUNDO_S04012015A06_CAN_20150108_161853.log:***  220 Billing Charges         deleted . 
+./BLUNDO_S04012015A06_CAN_20150108_161853.log:***  4 Billing Credits         deleted . 
+./BLUNDO_S04012015A06_CAN_20150108_161853.log:***  Total amount of  UNDO Credits  $82.40 . 
+./BLUNDO_S04012015A06_CAN_20150108_161853.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:14 EST 2015
+./BLUNDO_S04012015A07_CAN_20150108_161853.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A07_CAN_20150108_161853.log:***  4 BANs                    read . 
+./BLUNDO_S04012015A07_CAN_20150108_161853.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A07_CAN_20150108_161853.log:***  4 BANs                    succeeded . 
+./BLUNDO_S04012015A07_CAN_20150108_161853.log:***  165 Billing Charges         deleted . 
+./BLUNDO_S04012015A07_CAN_20150108_161853.log:***  6 Billing Credits         deleted . 
+./BLUNDO_S04012015A07_CAN_20150108_161853.log:***  Total amount of  UNDO Credits  $22.00 . 
+./BLUNDO_S04012015A07_CAN_20150108_161853.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A12_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A12_CAN_20150108_161854.log:***  2 BANs                    read . 
+./BLUNDO_S04012015A12_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A12_CAN_20150108_161854.log:***  2 BANs                    succeeded . 
+./BLUNDO_S04012015A12_CAN_20150108_161854.log:***  100 Billing Charges         deleted . 
+./BLUNDO_S04012015A12_CAN_20150108_161854.log:***  1 Billing Credits         deleted . 
+./BLUNDO_S04012015A12_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $49.00 . 
+./BLUNDO_S04012015A12_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A17_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A17_CAN_20150108_161854.log:***  1 BANs                    read . 
+./BLUNDO_S04012015A17_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A17_CAN_20150108_161854.log:***  1 BANs                    succeeded . 
+./BLUNDO_S04012015A17_CAN_20150108_161854.log:***  33 Billing Charges         deleted . 
+./BLUNDO_S04012015A17_CAN_20150108_161854.log:***  0 Billing Credits         deleted . 
+./BLUNDO_S04012015A17_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $807.00 . 
+./BLUNDO_S04012015A17_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A10_CAN_20150108_161853.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:53 EST 2015
+./BLUNDO_S04012015A10_CAN_20150108_161853.log:***  2 BANs                    read . 
+./BLUNDO_S04012015A10_CAN_20150108_161853.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A10_CAN_20150108_161853.log:***  2 BANs                    succeeded . 
+./BLUNDO_S04012015A10_CAN_20150108_161853.log:***  112 Billing Charges         deleted . 
+./BLUNDO_S04012015A10_CAN_20150108_161853.log:***  3 Billing Credits         deleted . 
+./BLUNDO_S04012015A10_CAN_20150108_161853.log:***  Total amount of  UNDO Credits  $18.00 . 
+./BLUNDO_S04012015A10_CAN_20150108_161853.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A09_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A09_CAN_20150108_161854.log:***  4 BANs                    read . 
+./BLUNDO_S04012015A09_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A09_CAN_20150108_161854.log:***  4 BANs                    succeeded . 
+./BLUNDO_S04012015A09_CAN_20150108_161854.log:***  173 Billing Charges         deleted . 
+./BLUNDO_S04012015A09_CAN_20150108_161854.log:***  1 Billing Credits         deleted . 
+./BLUNDO_S04012015A09_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $3.00 . 
+./BLUNDO_S04012015A09_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:13 EST 2015
+./BLUNDO_S04012015A15_CAN_20150108_161853.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A15_CAN_20150108_161853.log:***  2 BANs                    read . 
+./BLUNDO_S04012015A15_CAN_20150108_161853.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A15_CAN_20150108_161853.log:***  2 BANs                    succeeded . 
+./BLUNDO_S04012015A15_CAN_20150108_161853.log:***  53 Billing Charges         deleted . 
+./BLUNDO_S04012015A15_CAN_20150108_161853.log:***  1 Billing Credits         deleted . 
+./BLUNDO_S04012015A15_CAN_20150108_161853.log:***  Total amount of  UNDO Credits  $7.00 . 
+./BLUNDO_S04012015A15_CAN_20150108_161853.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A05_CAN_20150108_161853.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:53 EST 2015
+./BLUNDO_S04012015A05_CAN_20150108_161853.log:***  3 BANs                    read . 
+./BLUNDO_S04012015A05_CAN_20150108_161853.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A05_CAN_20150108_161853.log:***  3 BANs                    succeeded . 
+./BLUNDO_S04012015A05_CAN_20150108_161853.log:***  102 Billing Charges         deleted . 
+./BLUNDO_S04012015A05_CAN_20150108_161853.log:***  6 Billing Credits         deleted . 
+./BLUNDO_S04012015A05_CAN_20150108_161853.log:***  Total amount of  UNDO Credits  $47.12 . 
+./BLUNDO_S04012015A05_CAN_20150108_161853.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A20_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A20_CAN_20150108_161854.log:***  2 BANs                    read . 
+./BLUNDO_S04012015A20_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A20_CAN_20150108_161854.log:***  2 BANs                    succeeded . 
+./BLUNDO_S04012015A20_CAN_20150108_161854.log:***  63 Billing Charges         deleted . 
+./BLUNDO_S04012015A20_CAN_20150108_161854.log:***  0 Billing Credits         deleted . 
+./BLUNDO_S04012015A20_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $.00 . 
+./BLUNDO_S04012015A20_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A18_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A18_CAN_20150108_161854.log:***  2 BANs                    read . 
+./BLUNDO_S04012015A18_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A18_CAN_20150108_161854.log:***  2 BANs                    succeeded . 
+./BLUNDO_S04012015A18_CAN_20150108_161854.log:***  59 Billing Charges         deleted . 
+./BLUNDO_S04012015A18_CAN_20150108_161854.log:***  2 Billing Credits         deleted . 
+./BLUNDO_S04012015A18_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $27.23 . 
+./BLUNDO_S04012015A18_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A14_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A14_CAN_20150108_161854.log:***  1 BANs                    read . 
+./BLUNDO_S04012015A14_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A14_CAN_20150108_161854.log:***  1 BANs                    succeeded . 
+./BLUNDO_S04012015A14_CAN_20150108_161854.log:***  72 Billing Charges         deleted . 
+./BLUNDO_S04012015A14_CAN_20150108_161854.log:***  0 Billing Credits         deleted . 
+./BLUNDO_S04012015A14_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $.00 . 
+./BLUNDO_S04012015A14_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A13_CAN_20150108_161853.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A13_CAN_20150108_161853.log:***  3 BANs                    read . 
+./BLUNDO_S04012015A13_CAN_20150108_161853.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A13_CAN_20150108_161853.log:***  3 BANs                    succeeded . 
+./BLUNDO_S04012015A13_CAN_20150108_161853.log:***  105 Billing Charges         deleted . 
+./BLUNDO_S04012015A13_CAN_20150108_161853.log:***  4 Billing Credits         deleted . 
+./BLUNDO_S04012015A13_CAN_20150108_161853.log:***  Total amount of  UNDO Credits  $28.09 . 
+./BLUNDO_S04012015A13_CAN_20150108_161853.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A03_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A03_CAN_20150108_161854.log:***  4 BANs                    read . 
+./BLUNDO_S04012015A03_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A03_CAN_20150108_161854.log:***  4 BANs                    succeeded . 
+./BLUNDO_S04012015A03_CAN_20150108_161854.log:***  166 Billing Charges         deleted . 
+./BLUNDO_S04012015A03_CAN_20150108_161854.log:***  4 Billing Credits         deleted . 
+./BLUNDO_S04012015A03_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $12.50 . 
+./BLUNDO_S04012015A03_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:13 EST 2015
+./BLUNDO_S04012015A11_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A11_CAN_20150108_161854.log:***  2 BANs                    read . 
+./BLUNDO_S04012015A11_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A11_CAN_20150108_161854.log:***  2 BANs                    succeeded . 
+./BLUNDO_S04012015A11_CAN_20150108_161854.log:***  89 Billing Charges         deleted . 
+./BLUNDO_S04012015A11_CAN_20150108_161854.log:***  2 Billing Credits         deleted . 
+./BLUNDO_S04012015A11_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $15.48 . 
+./BLUNDO_S04012015A11_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A16_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A16_CAN_20150108_161854.log:***  2 BANs                    read . 
+./BLUNDO_S04012015A16_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A16_CAN_20150108_161854.log:***  2 BANs                    succeeded . 
+./BLUNDO_S04012015A16_CAN_20150108_161854.log:***  64 Billing Charges         deleted . 
+./BLUNDO_S04012015A16_CAN_20150108_161854.log:***  0 Billing Credits         deleted . 
+./BLUNDO_S04012015A16_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $.00 . 
+./BLUNDO_S04012015A16_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:11 EST 2015
+./BLUNDO_S04012015A04_CAN_20150108_161853.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:53 EST 2015
+./BLUNDO_S04012015A04_CAN_20150108_161853.log:***  6 BANs                    read . 
+./BLUNDO_S04012015A04_CAN_20150108_161853.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A04_CAN_20150108_161853.log:***  6 BANs                    succeeded . 
+./BLUNDO_S04012015A04_CAN_20150108_161853.log:***  153 Billing Charges         deleted . 
+./BLUNDO_S04012015A04_CAN_20150108_161853.log:***  4 Billing Credits         deleted . 
+./BLUNDO_S04012015A04_CAN_20150108_161853.log:***  Total amount of  UNDO Credits  $118.45 . 
+./BLUNDO_S04012015A04_CAN_20150108_161853.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:16 EST 2015
+./BLUNDO_S04012015A19_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A19_CAN_20150108_161854.log:***  1 BANs                    read . 
+./BLUNDO_S04012015A19_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A19_CAN_20150108_161854.log:***  1 BANs                    succeeded . 
+./BLUNDO_S04012015A19_CAN_20150108_161854.log:***  33 Billing Charges         deleted . 
+./BLUNDO_S04012015A19_CAN_20150108_161854.log:***  1 Billing Credits         deleted . 
+./BLUNDO_S04012015A19_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $5.00 . 
+./BLUNDO_S04012015A19_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:08 EST 2015
+./BLUNDO_S04012015A02_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A02_CAN_20150108_161854.log:***  4 BANs                    read . 
+./BLUNDO_S04012015A02_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A02_CAN_20150108_161854.log:***  4 BANs                    succeeded . 
+./BLUNDO_S04012015A02_CAN_20150108_161854.log:***  213 Billing Charges         deleted . 
+./BLUNDO_S04012015A02_CAN_20150108_161854.log:***  3 Billing Credits         deleted . 
+./BLUNDO_S04012015A02_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $692.92 . 
+./BLUNDO_S04012015A02_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:15 EST 2015
+./BLUNDO_S04012015A01_CAN_20150108_161854.log:*  Operational Script Job Activation, on Thu Jan  8 16:18:54 EST 2015
+./BLUNDO_S04012015A01_CAN_20150108_161854.log:***  3 BANs                    read . 
+./BLUNDO_S04012015A01_CAN_20150108_161854.log:***  0 BANs                    rejected . 
+./BLUNDO_S04012015A01_CAN_20150108_161854.log:***  3 BANs                    succeeded . 
+./BLUNDO_S04012015A01_CAN_20150108_161854.log:***  145 Billing Charges         deleted . 
+./BLUNDO_S04012015A01_CAN_20150108_161854.log:***  5 Billing Credits         deleted . 
+./BLUNDO_S04012015A01_CAN_20150108_161854.log:***  Total amount of  UNDO Credits  $65.38 . 
+./BLUNDO_S04012015A01_CAN_20150108_161854.log:*  Operational Job ended successfuly on Thu Jan  8 16:19:13 EST 2015
