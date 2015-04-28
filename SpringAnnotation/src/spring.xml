@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+
+
+<beans>
+	<bean name="circle" class="cab.springannotation.Circle">
+		<property name="center" ref="pointA"/>
+	</bean>
+
+	<bean id="pointA" class="cab.springannotation.Point">
+		<property name="x" value="70" />
+		<property name="y" value="70" />
+	</bean>
+
+	<bean class="org.springframework.beans.factory.annotation.RequiredAnnotationBeanPostProcessor"/>
+</beans>
